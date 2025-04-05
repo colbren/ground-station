@@ -1,0 +1,19 @@
+[100%] Built target display_topic_statistics
+-- Install configuration: ""
+-- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/lib/topic_statistics_demo/display_topic_statistics
+-- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/ament_index/resource_index/package_run_dependencies/topic_statistics_demo
+-- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/ament_index/resource_index/parent_prefix_path/topic_statistics_demo
+-- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/environment/ament_prefix_path.sh
+-- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/environment/path.sh
+-- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/environment/path.dsv
+-- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/local_setup.bash
+-- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/local_setup.sh
+-- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/local_setup.zsh
+-- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/local_setup.dsv
+-- Installing: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/package.dsv
+-- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/ament_index/resource_index/packages/topic_statistics_demo
+-- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/cmake/topic_statistics_demoConfig.cmake
+-- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/cmake/topic_statistics_demoConfig-version.cmake
+-- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/package.xml

@@ -1,0 +1,82 @@
+[  2%] Built target allocator_tutorial
+[  5%] Built target parameter_events
+[  8%] Built target add_two_ints_client
+[ 11%] Built target list_parameters_async
+[ 14%] Built target parameter_event_handler
+[ 17%] Built target set_and_get_parameters_async
+[ 20%] Built target one_off_timer
+[ 23%] Built target add_two_ints_server
+[ 26%] Built target reuse_timer
+[ 30%] Built target timers_library
+[ 33%] Built target list_parameters
+[ 42%] Built target parameters_library
+[ 48%] Built target services_library
+[ 63%] Built target add_two_ints_client_async
+[ 64%] Built target topics_library
+[ 67%] Built target parameter_blackboard
+[ 70%] Built target set_and_get_parameters
+[ 73%] Built target parameter_events_async
+[ 76%] Built target content_filtering_publisher
+[ 82%] Built target even_parameters_node
+[ 82%] Built target listener_serialized_message
+[ 85%] Built target content_filtering_subscriber
+[ 88%] Built target talker_loaned_message
+[ 92%] Built target listener
+[ 94%] Built target talker
+[ 97%] Built target listener_best_effort
+[100%] Built target talker_serialized_message
+-- Install configuration: ""
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/allocator_tutorial
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/add_two_ints_client
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/list_parameters_async
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/parameter_events
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/parameter_event_handler
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/set_and_get_parameters_async
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/one_off_timer
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/reuse_timer
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/add_two_ints_server
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/add_two_ints_client_async
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/list_parameters
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/parameter_blackboard
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/set_and_get_parameters
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/parameter_events_async
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/even_parameters_node
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/content_filtering_publisher
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/content_filtering_subscriber
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/talker
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/talker_loaned_message
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/talker_serialized_message
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/listener
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/listener_serialized_message
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/listener_best_effort
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/libtimers_library.so
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/libservices_library.so
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/libparameters_library.so
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/libtopics_library.so
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/services
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/services/add_two_ints_async.launch.py
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/services/add_two_ints.launch.py
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/services/add_two_ints_async.launch.xml
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/services/add_two_ints.launch.xml
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/topics
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/topics/talker_listener.launch.py
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/topics/talker_listener.launch.xml
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/topics/talker_listener_best_effort.launch.xml
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/topics/talker_listener_best_effort.launch.py
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/ament_index/resource_index/package_run_dependencies/demo_nodes_cpp
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/ament_index/resource_index/parent_prefix_path/demo_nodes_cpp
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/environment/ament_prefix_path.sh
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/environment/path.sh
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/environment/path.dsv
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/local_setup.bash
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/local_setup.sh
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/local_setup.zsh
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/local_setup.dsv
+-- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/package.dsv
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/ament_index/resource_index/packages/demo_nodes_cpp
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/ament_index/resource_index/rclcpp_components/demo_nodes_cpp
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/cmake/demo_nodes_cppConfig.cmake
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/cmake/demo_nodes_cppConfig-version.cmake
+-- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/package.xml

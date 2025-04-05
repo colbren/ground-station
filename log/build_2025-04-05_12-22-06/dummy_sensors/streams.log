@@ -1,0 +1,24 @@
+[0.087s] Invoking command in '/home/colbren/ground-station/build/dummy_sensors': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/dummy_sensors -- -j16 -l16
+[1.107s] [ 50%] Built target dummy_laser
+[1.108s] [100%] Built target dummy_joint_states
+[1.135s] Invoked command in '/home/colbren/ground-station/build/dummy_sensors' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/dummy_sensors -- -j16 -l16
+[1.137s] Invoking command in '/home/colbren/ground-station/build/dummy_sensors': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/dummy_sensors
+[1.176s] -- Install configuration: ""
+[1.176s] -- Up-to-date: /home/colbren/ground-station/install/dummy_sensors/lib/dummy_sensors/dummy_joint_states
+[1.176s] -- Up-to-date: /home/colbren/ground-station/install/dummy_sensors/lib/dummy_sensors/dummy_laser
+[1.176s] -- Up-to-date: /home/colbren/ground-station/install/dummy_sensors/share/ament_index/resource_index/package_run_dependencies/dummy_sensors
+[1.177s] -- Up-to-date: /home/colbren/ground-station/install/dummy_sensors/share/ament_index/resource_index/parent_prefix_path/dummy_sensors
+[1.177s] -- Up-to-date: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/environment/ament_prefix_path.sh
+[1.177s] -- Up-to-date: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/environment/ament_prefix_path.dsv
+[1.177s] -- Up-to-date: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/environment/path.sh
+[1.178s] -- Up-to-date: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/environment/path.dsv
+[1.178s] -- Up-to-date: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/local_setup.bash
+[1.178s] -- Up-to-date: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/local_setup.sh
+[1.179s] -- Up-to-date: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/local_setup.zsh
+[1.179s] -- Up-to-date: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/local_setup.dsv
+[1.179s] -- Installing: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/package.dsv
+[1.179s] -- Up-to-date: /home/colbren/ground-station/install/dummy_sensors/share/ament_index/resource_index/packages/dummy_sensors
+[1.179s] -- Up-to-date: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/cmake/dummy_sensorsConfig.cmake
+[1.179s] -- Up-to-date: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/cmake/dummy_sensorsConfig-version.cmake
+[1.179s] -- Up-to-date: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/package.xml
+[1.297s] Invoked command in '/home/colbren/ground-station/build/dummy_sensors' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/dummy_sensors

@@ -1,0 +1,10 @@
+[0.227s] Invoking command in '/home/colbren/ground-station/build/turtSim_node': /usr/bin/cmake --build /home/colbren/ground-station/build/turtSim_node -- -j16 -l16
+[0.561s] [ 20%] [34m[1mAutomatic MOC and UIC for target turtSim_node[0m
+[0.561s] [ 20%] Built target turtSim_node_autogen
+[0.561s] [35m[1mConsolidate compiler generated dependencies of target turtSim_node[0m
+[0.561s] [100%] Built target turtSim_node
+[0.856s] Invoked command in '/home/colbren/ground-station/build/turtSim_node' returned '0': /usr/bin/cmake --build /home/colbren/ground-station/build/turtSim_node -- -j16 -l16
+[0.857s] Invoking command in '/home/colbren/ground-station/build/turtSim_node': /usr/bin/cmake --install /home/colbren/ground-station/build/turtSim_node
+[0.870s] -- Install configuration: ""
+[0.873s] -- Up-to-date: /home/colbren/ground-station/install/turtSim_node/bin/turtSim_node
+[0.873s] Invoked command in '/home/colbren/ground-station/build/turtSim_node' returned '0': /usr/bin/cmake --install /home/colbren/ground-station/build/turtSim_node

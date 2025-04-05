@@ -1,0 +1,184 @@
+[0.088s] Invoking command in '/home/colbren/ground-station/build/pendulum_msgs': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/pendulum_msgs -- -j16 -l16
+[1.102s] [  2%] Built target pendulum_msgs__cpp
+[1.102s] [ 12%] Built target pendulum_msgs__rosidl_generator_c
+[1.102s] [ 12%] Built target ament_cmake_python_copy_pendulum_msgs
+[1.102s] [ 23%] Built target pendulum_msgs__rosidl_typesupport_cpp
+[1.102s] [ 34%] Built target pendulum_msgs__rosidl_typesupport_introspection_c
+[1.103s] [ 65%] Built target pendulum_msgs__rosidl_typesupport_c
+[1.103s] [ 44%] Built target pendulum_msgs__rosidl_typesupport_fastrtps_cpp
+[1.103s] [ 55%] Built target pendulum_msgs__rosidl_typesupport_fastrtps_c
+[1.103s] [ 76%] Built target pendulum_msgs__rosidl_typesupport_introspection_cpp
+[1.103s] [ 76%] Built target pendulum_msgs
+[1.103s] [ 78%] Built target pendulum_msgs__py
+[1.103s] [ 87%] Built target pendulum_msgs__rosidl_generator_py
+[1.103s] [ 91%] Built target pendulum_msgs__rosidl_typesupport_fastrtps_c__pyext
+[1.103s] [100%] Built target pendulum_msgs__rosidl_typesupport_c__pyext
+[1.103s] [100%] Built target pendulum_msgs__rosidl_typesupport_introspection_c__pyext
+[1.103s] running egg_info
+[1.103s] writing pendulum_msgs.egg-info/PKG-INFO
+[1.103s] writing dependency_links to pendulum_msgs.egg-info/dependency_links.txt
+[1.103s] writing top-level names to pendulum_msgs.egg-info/top_level.txt
+[1.103s] reading manifest file 'pendulum_msgs.egg-info/SOURCES.txt'
+[1.103s] writing manifest file 'pendulum_msgs.egg-info/SOURCES.txt'
+[1.103s] [100%] Built target ament_cmake_python_build_pendulum_msgs_egg
+[1.145s] Invoked command in '/home/colbren/ground-station/build/pendulum_msgs' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/pendulum_msgs -- -j16 -l16
+[1.147s] Invoking command in '/home/colbren/ground-station/build/pendulum_msgs': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/pendulum_msgs
+[1.192s] -- Install configuration: ""
+[1.193s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/ament_index/resource_index/rosidl_interfaces/pendulum_msgs
+[1.193s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs
+[1.193s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg
+[1.193s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail
+[1.193s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_command__type_support.h
+[1.193s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_command__functions.c
+[1.193s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_command__functions.h
+[1.193s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_state__functions.h
+[1.193s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_command__struct.h
+[1.193s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/rttest_results__type_support.h
+[1.193s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/rttest_results__functions.c
+[1.193s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/rttest_results__struct.h
+[1.194s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/rttest_results__functions.h
+[1.194s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_state__struct.h
+[1.194s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_state__functions.c
+[1.194s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_state__type_support.h
+[1.194s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/joint_state.h
+[1.194s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/joint_command.h
+[1.194s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/rttest_results.h
+[1.194s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/rosidl_generator_c__visibility_control.h
+[1.194s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/environment/library_path.sh
+[1.194s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/environment/library_path.dsv
+[1.195s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/lib/libpendulum_msgs__rosidl_generator_c.so
+[1.195s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs
+[1.195s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg
+[1.195s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.195s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail
+[1.195s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_command__rosidl_typesupport_fastrtps_c.h
+[1.195s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_state__rosidl_typesupport_fastrtps_c.h
+[1.195s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/rttest_results__rosidl_typesupport_fastrtps_c.h
+[1.196s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/lib/libpendulum_msgs__rosidl_typesupport_fastrtps_c.so
+[1.196s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs
+[1.196s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg
+[1.196s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail
+[1.196s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_command__struct.hpp
+[1.196s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_state__type_support.hpp
+[1.196s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/rttest_results__type_support.hpp
+[1.196s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_command__type_support.hpp
+[1.196s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_command__builder.hpp
+[1.196s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_state__struct.hpp
+[1.196s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/rttest_results__builder.hpp
+[1.196s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/rttest_results__traits.hpp
+[1.197s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/rttest_results__struct.hpp
+[1.197s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_state__builder.hpp
+[1.197s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_command__traits.hpp
+[1.197s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_state__traits.hpp
+[1.197s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/joint_command.hpp
+[1.197s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[1.197s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/rttest_results.hpp
+[1.197s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/joint_state.hpp
+[1.197s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs
+[1.197s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg
+[1.198s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail
+[1.198s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/rttest_results__rosidl_typesupport_fastrtps_cpp.hpp
+[1.198s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_command__rosidl_typesupport_fastrtps_cpp.hpp
+[1.198s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/dds_fastrtps
+[1.199s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_state__rosidl_typesupport_fastrtps_cpp.hpp
+[1.199s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.199s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/lib/libpendulum_msgs__rosidl_typesupport_fastrtps_cpp.so
+[1.199s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs
+[1.199s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg
+[1.205s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail
+[1.205s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/rttest_results__type_support.c
+[1.206s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_command__type_support.c
+[1.206s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_state__type_support.c
+[1.206s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/rttest_results__rosidl_typesupport_introspection_c.h
+[1.206s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_state__rosidl_typesupport_introspection_c.h
+[1.206s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_command__rosidl_typesupport_introspection_c.h
+[1.206s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.206s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/lib/libpendulum_msgs__rosidl_typesupport_introspection_c.so
+[1.207s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/lib/libpendulum_msgs__rosidl_typesupport_c.so
+[1.207s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs
+[1.209s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg
+[1.209s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail
+[1.209s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_command__rosidl_typesupport_introspection_cpp.hpp
+[1.209s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/rttest_results__rosidl_typesupport_introspection_cpp.hpp
+[1.210s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/rttest_results__type_support.cpp
+[1.210s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_state__rosidl_typesupport_introspection_cpp.hpp
+[1.210s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_state__type_support.cpp
+[1.210s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/include/pendulum_msgs/pendulum_msgs/msg/detail/joint_command__type_support.cpp
+[1.214s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/lib/libpendulum_msgs__rosidl_typesupport_introspection_cpp.so
+[1.220s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/lib/libpendulum_msgs__rosidl_typesupport_cpp.so
+[1.221s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/environment/pythonpath.sh
+[1.221s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/environment/pythonpath.dsv
+[1.221s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs-0.20.5-py3.10.egg-info
+[1.222s] -- Installing: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs-0.20.5-py3.10.egg-info/top_level.txt
+[1.222s] -- Installing: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs-0.20.5-py3.10.egg-info/dependency_links.txt
+[1.222s] -- Installing: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs-0.20.5-py3.10.egg-info/PKG-INFO
+[1.222s] -- Installing: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs-0.20.5-py3.10.egg-info/SOURCES.txt
+[1.223s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs
+[1.227s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs/pendulum_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.227s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs/_pendulum_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.227s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs/libpendulum_msgs__rosidl_generator_py.so
+[1.227s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs/pendulum_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.227s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs/pendulum_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.228s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs/__init__.py
+[1.229s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs/_pendulum_msgs_s.ep.rosidl_typesupport_c.c
+[1.229s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs/msg
+[1.230s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs/msg/__init__.py
+[1.230s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs/msg/_joint_command.py
+[1.232s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs/msg/_rttest_results_s.c
+[1.232s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs/msg/_joint_state_s.c
+[1.232s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs/msg/_rttest_results.py
+[1.232s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs/msg/_joint_command_s.c
+[1.232s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs/msg/_joint_state.py
+[1.232s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs/_pendulum_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[1.270s] Listing '/home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs'...
+[1.270s] Listing '/home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs/msg'...
+[1.271s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs/pendulum_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.271s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs/pendulum_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.271s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages/pendulum_msgs/pendulum_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.273s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/lib/libpendulum_msgs__rosidl_generator_py.so
+[1.274s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/msg/JointState.idl
+[1.274s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/msg/JointCommand.idl
+[1.275s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/msg/RttestResults.idl
+[1.275s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/msg/JointState.msg
+[1.275s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/msg/JointCommand.msg
+[1.275s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/msg/RttestResults.msg
+[1.275s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/ament_index/resource_index/package_run_dependencies/pendulum_msgs
+[1.276s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/ament_index/resource_index/parent_prefix_path/pendulum_msgs
+[1.276s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/environment/ament_prefix_path.sh
+[1.276s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/environment/ament_prefix_path.dsv
+[1.276s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/environment/path.sh
+[1.276s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/environment/path.dsv
+[1.276s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/local_setup.bash
+[1.276s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/local_setup.sh
+[1.276s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/local_setup.zsh
+[1.276s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/local_setup.dsv
+[1.276s] -- Installing: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/package.dsv
+[1.276s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/ament_index/resource_index/packages/pendulum_msgs
+[1.277s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/export_pendulum_msgs__rosidl_generator_cExport.cmake
+[1.277s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/export_pendulum_msgs__rosidl_generator_cExport-noconfig.cmake
+[1.278s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/export_pendulum_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[1.279s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/export_pendulum_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.279s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/export_pendulum_msgs__rosidl_generator_cppExport.cmake
+[1.280s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/export_pendulum_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.281s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/export_pendulum_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.282s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/pendulum_msgs__rosidl_typesupport_introspection_cExport.cmake
+[1.282s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/pendulum_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.282s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/pendulum_msgs__rosidl_typesupport_cExport.cmake
+[1.282s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/pendulum_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[1.284s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/pendulum_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[1.284s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/pendulum_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.285s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/pendulum_msgs__rosidl_typesupport_cppExport.cmake
+[1.285s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/pendulum_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[1.285s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/export_pendulum_msgs__rosidl_generator_pyExport.cmake
+[1.285s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/export_pendulum_msgs__rosidl_generator_pyExport-noconfig.cmake
+[1.285s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/rosidl_cmake-extras.cmake
+[1.286s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.286s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.286s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[1.286s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[1.286s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.286s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.286s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/pendulum_msgsConfig.cmake
+[1.286s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/cmake/pendulum_msgsConfig-version.cmake
+[1.287s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_msgs/share/pendulum_msgs/package.xml
+[1.457s] Invoked command in '/home/colbren/ground-station/build/pendulum_msgs' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/pendulum_msgs

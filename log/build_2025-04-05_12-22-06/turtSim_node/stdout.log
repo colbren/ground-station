@@ -1,0 +1,6 @@
+[ 20%] [34m[1mAutomatic MOC and UIC for target turtSim_node[0m
+[ 20%] Built target turtSim_node_autogen
+[35m[1mConsolidate compiler generated dependencies of target turtSim_node[0m
+[100%] Built target turtSim_node
+-- Install configuration: ""
+-- Up-to-date: /home/colbren/ground-station/install/turtSim_node/bin/turtSim_node

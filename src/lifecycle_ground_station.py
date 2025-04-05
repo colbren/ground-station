@@ -33,26 +33,33 @@ class NodeController(QWidget):
         self.timer.start(1000)
 
     def start_node(self):
-        if not self.process:
-            self.process = QProcess(self)
-            self.process.start("ros2", ["lifecycle", "set", self.node_name, "configure"])
-            self.process.waitForFinished()
-            self.process.start("ros2", ["lifecycle", "set", self.node_name, "activate"])
-            self.process.waitForFinished()
+        self.process = QProcess(self)
+        self.process.start("ros2", ["lifecycle", "set", self.node_name, "configure"])
+        self.process.waitForFinished()
+        self.process.start("ros2", ["lifecycle", "set", self.node_name, "activate"])
+        self.process.waitForFinished()
 
     def stop_node(self):
         if self.process:
             stop_process = QProcess(self)
-            stop_process.start("ros2", ["lifecycle", "set", self.node_name, "shutdown"])
+            stop_process.start("ros2", ["lifecycle", "set", self.node_name, "deactivate"])
             stop_process.waitForFinished()
-            self.process = None
-
+            stop_process.start("ros2", ["lifecycle", "set", self.node_name, "cleanup"])
+            stop_process.waitForFinished()
+        
     def update_lifecycle_status(self):
+        # Create the QProcess to execute the command asynchronously
         process = QProcess(self)
+        # Connect the finished signal to a custom slot for handling the output
+        process.finished.connect(lambda: self.handle_lifecycle_output(process))
+        # Start the process
         process.start("ros2", ["lifecycle", "get", self.node_name])
-        process.waitForFinished()
+
+    def handle_lifecycle_output(self, process):
+        # Read the output of the command
         output = process.readAllStandardOutput().data().decode().strip()
 
+        # Determine the lifecycle state based on the output
         if "unconfigured" in output:
             state = "Unconfigured"
         elif "inactive" in output:
@@ -64,6 +71,7 @@ class NodeController(QWidget):
         else:
             state = "Unknown"
 
+        # Update the label with the lifecycle state
         self.lifecycle_label.setText(f"Lifecycle State: {state}")
 
 
@@ -97,7 +105,7 @@ class ROSNodeManager(QWidget):
         # Launch your full launch file
         launch_process = QProcess(self)
 
-        # Should be changed to ros2 launch
+        # Launch file to launch all nodes
         launch_process.start("ros2", ["run", "lifecycle_py", "lifecycle_talker"])
 
         # Add NodeController widgets for expected nodes
@@ -105,6 +113,12 @@ class ROSNodeManager(QWidget):
             controller = NodeController(node_name)
             self.node_controllers.append(controller)
             self.node_group.addWidget(controller)
+
+    def closeEvent(self, event):
+        # Shutdown all nodes when the window is closed
+        for controller in self.node_controllers:
+            controller.stop_node()  # Ensure all nodes are stopped properly
+        event.accept()
 
 
 if __name__ == "__main__":
