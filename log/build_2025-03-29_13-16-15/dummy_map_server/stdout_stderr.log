@@ -1,0 +1,21 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/dummy_map_server.dir/src/dummy_map_server.cpp.o[0m
+[100%] [32m[1mLinking CXX executable dummy_map_server[0m
+[100%] Built target dummy_map_server
+-- Install configuration: ""
+-- Installing: /home/colbren/ground-station/install/dummy_map_server/lib/dummy_map_server/dummy_map_server
+-- Set runtime path of "/home/colbren/ground-station/install/dummy_map_server/lib/dummy_map_server/dummy_map_server" to ""
+-- Installing: /home/colbren/ground-station/install/dummy_map_server/share/ament_index/resource_index/package_run_dependencies/dummy_map_server
+-- Installing: /home/colbren/ground-station/install/dummy_map_server/share/ament_index/resource_index/parent_prefix_path/dummy_map_server
+-- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/environment/ament_prefix_path.sh
+-- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/environment/ament_prefix_path.dsv
+-- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/environment/path.sh
+-- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/environment/path.dsv
+-- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/local_setup.bash
+-- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/local_setup.sh
+-- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/local_setup.zsh
+-- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/local_setup.dsv
+-- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/package.dsv
+-- Installing: /home/colbren/ground-station/install/dummy_map_server/share/ament_index/resource_index/packages/dummy_map_server
+-- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/cmake/dummy_map_serverConfig.cmake
+-- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/cmake/dummy_map_serverConfig-version.cmake
+-- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/package.xml

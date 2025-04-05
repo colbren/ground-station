@@ -1,0 +1,46 @@
+[ 11%] [32mBuilding CXX object CMakeFiles/image_tools.dir/src/burger.cpp.o[0m
+[ 22%] [32mBuilding CXX object CMakeFiles/image_tools.dir/src/showimage.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/image_tools.dir/src/cv_mat_sensor_msgs_image_type_adapter.cpp.o[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/image_tools.dir/src/cam2image.cpp.o[0m
+[ 55%] [32m[1mLinking CXX shared library libimage_tools.so[0m
+[ 55%] Built target image_tools
+[ 66%] [32mBuilding CXX object CMakeFiles/showimage.dir/rclcpp_components/node_main_showimage.cpp.o[0m
+[ 77%] [32m[1mLinking CXX executable showimage[0m
+[ 77%] Built target showimage
+[ 88%] [32mBuilding CXX object CMakeFiles/cam2image.dir/rclcpp_components/node_main_cam2image.cpp.o[0m
+[100%] [32m[1mLinking CXX executable cam2image[0m
+[100%] Built target cam2image
+-- Install configuration: ""
+-- Installing: /home/colbren/ground-station/install/image_tools/lib/image_tools/cam2image
+-- Set runtime path of "/home/colbren/ground-station/install/image_tools/lib/image_tools/cam2image" to ""
+-- Installing: /home/colbren/ground-station/install/image_tools/lib/image_tools/showimage
+-- Set runtime path of "/home/colbren/ground-station/install/image_tools/lib/image_tools/showimage" to ""
+-- Installing: /home/colbren/ground-station/install/image_tools/lib/libimage_tools.so
+-- Set runtime path of "/home/colbren/ground-station/install/image_tools/lib/libimage_tools.so" to ""
+-- Installing: /home/colbren/ground-station/install/image_tools/include/image_tools
+-- Installing: /home/colbren/ground-station/install/image_tools/include/image_tools/image_tools
+-- Installing: /home/colbren/ground-station/install/image_tools/include/image_tools/image_tools/cv_mat_sensor_msgs_image_type_adapter.hpp
+-- Installing: /home/colbren/ground-station/install/image_tools/include/image_tools/image_tools/visibility_control.h
+-- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/environment/library_path.sh
+-- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/environment/library_path.dsv
+-- Installing: /home/colbren/ground-station/install/image_tools/share/ament_index/resource_index/package_run_dependencies/image_tools
+-- Installing: /home/colbren/ground-station/install/image_tools/share/ament_index/resource_index/parent_prefix_path/image_tools
+-- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/environment/ament_prefix_path.sh
+-- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/environment/ament_prefix_path.dsv
+-- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/environment/path.sh
+-- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/environment/path.dsv
+-- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/local_setup.bash
+-- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/local_setup.sh
+-- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/local_setup.zsh
+-- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/local_setup.dsv
+-- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/package.dsv
+-- Installing: /home/colbren/ground-station/install/image_tools/share/ament_index/resource_index/packages/image_tools
+-- Installing: /home/colbren/ground-station/install/image_tools/share/ament_index/resource_index/rclcpp_components/image_tools
+-- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/cmake/image_toolsExport.cmake
+-- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/cmake/image_toolsExport-noconfig.cmake
+-- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/cmake/ament_cmake_export_libraries-extras.cmake
+-- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/cmake/ament_cmake_export_targets-extras.cmake
+-- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/cmake/image_toolsConfig.cmake
+-- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/cmake/image_toolsConfig-version.cmake
+-- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/package.xml

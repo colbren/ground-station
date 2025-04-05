@@ -1,0 +1,31 @@
+[0.090s] Invoking command in '/home/colbren/ground-station/build/lifecycle': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/lifecycle -- -j16 -l16
+[1.122s] [35m[1mConsolidate compiler generated dependencies of target lifecycle_listener[0m
+[1.122s] [35m[1mConsolidate compiler generated dependencies of target lifecycle_service_client[0m
+[1.122s] [35m[1mConsolidate compiler generated dependencies of target lifecycle_talker[0m
+[1.123s] [ 33%] Built target lifecycle_listener
+[1.123s] [ 66%] Built target lifecycle_talker
+[1.123s] [100%] Built target lifecycle_service_client
+[1.135s] Invoked command in '/home/colbren/ground-station/build/lifecycle' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/lifecycle -- -j16 -l16
+[1.140s] Invoking command in '/home/colbren/ground-station/build/lifecycle': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/lifecycle
+[1.171s] -- Install configuration: ""
+[1.171s] -- Up-to-date: /home/colbren/ground-station/install/lifecycle/lib/lifecycle/lifecycle_talker
+[1.172s] -- Up-to-date: /home/colbren/ground-station/install/lifecycle/lib/lifecycle/lifecycle_listener
+[1.172s] -- Up-to-date: /home/colbren/ground-station/install/lifecycle/lib/lifecycle/lifecycle_service_client
+[1.172s] -- Up-to-date: /home/colbren/ground-station/install/lifecycle/share/lifecycle//launch
+[1.172s] -- Up-to-date: /home/colbren/ground-station/install/lifecycle/share/lifecycle//launch/lifecycle_demo.launch.py
+[1.172s] -- Up-to-date: /home/colbren/ground-station/install/lifecycle/share/ament_index/resource_index/package_run_dependencies/lifecycle
+[1.172s] -- Up-to-date: /home/colbren/ground-station/install/lifecycle/share/ament_index/resource_index/parent_prefix_path/lifecycle
+[1.172s] -- Up-to-date: /home/colbren/ground-station/install/lifecycle/share/lifecycle/environment/ament_prefix_path.sh
+[1.173s] -- Up-to-date: /home/colbren/ground-station/install/lifecycle/share/lifecycle/environment/ament_prefix_path.dsv
+[1.174s] -- Up-to-date: /home/colbren/ground-station/install/lifecycle/share/lifecycle/environment/path.sh
+[1.175s] -- Up-to-date: /home/colbren/ground-station/install/lifecycle/share/lifecycle/environment/path.dsv
+[1.175s] -- Up-to-date: /home/colbren/ground-station/install/lifecycle/share/lifecycle/local_setup.bash
+[1.175s] -- Up-to-date: /home/colbren/ground-station/install/lifecycle/share/lifecycle/local_setup.sh
+[1.175s] -- Up-to-date: /home/colbren/ground-station/install/lifecycle/share/lifecycle/local_setup.zsh
+[1.175s] -- Up-to-date: /home/colbren/ground-station/install/lifecycle/share/lifecycle/local_setup.dsv
+[1.175s] -- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/package.dsv
+[1.175s] -- Up-to-date: /home/colbren/ground-station/install/lifecycle/share/ament_index/resource_index/packages/lifecycle
+[1.175s] -- Up-to-date: /home/colbren/ground-station/install/lifecycle/share/lifecycle/cmake/lifecycleConfig.cmake
+[1.176s] -- Up-to-date: /home/colbren/ground-station/install/lifecycle/share/lifecycle/cmake/lifecycleConfig-version.cmake
+[1.176s] -- Up-to-date: /home/colbren/ground-station/install/lifecycle/share/lifecycle/package.xml
+[1.234s] Invoked command in '/home/colbren/ground-station/build/lifecycle' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/lifecycle

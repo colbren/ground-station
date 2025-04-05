@@ -1,0 +1,41 @@
+[0.178s] Invoking command in '/home/colbren/ground-station/build/turtSim_node': /usr/bin/cmake /home/colbren/ground-station/turtSim_node -DCMAKE_INSTALL_PREFIX=/home/colbren/ground-station/install/turtSim_node
+[0.480s] -- The CXX compiler identification is GNU 11.4.0
+[0.480s] -- Detecting CXX compiler ABI info
+[0.480s] -- Detecting CXX compiler ABI info - done
+[0.481s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.481s] -- Detecting CXX compile features
+[0.481s] -- Detecting CXX compile features - done
+[0.494s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[0.652s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.824s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.834s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.857s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.876s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.903s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.986s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.989s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.110s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.143s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.199s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.209s] -- Looking for C++ include pthread.h
+[1.313s] -- Looking for C++ include pthread.h - found
+[1.313s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.406s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.408s] -- Found Threads: TRUE  
+[1.470s] -- Configuring done
+[1.501s] -- Generating done
+[1.504s] -- Build files have been written to: /home/colbren/ground-station/build/turtSim_node
+[1.515s] Invoked command in '/home/colbren/ground-station/build/turtSim_node' returned '0': /usr/bin/cmake /home/colbren/ground-station/turtSim_node -DCMAKE_INSTALL_PREFIX=/home/colbren/ground-station/install/turtSim_node
+[1.517s] Invoking command in '/home/colbren/ground-station/build/turtSim_node': /usr/bin/cmake --build /home/colbren/ground-station/build/turtSim_node -- -j16 -l16
+[1.573s] [ 20%] [34m[1mAutomatic MOC and UIC for target turtSim_node[0m
+[1.789s] [ 20%] Built target turtSim_node_autogen
+[1.810s] [ 80%] [32mBuilding CXX object CMakeFiles/turtSim_node.dir/turtSim_node_autogen/mocs_compilation.cpp.o[0m
+[1.810s] [ 80%] [32mBuilding CXX object CMakeFiles/turtSim_node.dir/mainwindow.cpp.o[0m
+[1.810s] [ 80%] [32mBuilding CXX object CMakeFiles/turtSim_node.dir/main.cpp.o[0m
+[2.949s] [100%] [32m[1mLinking CXX executable turtSim_node[0m
+[3.222s] [100%] Built target turtSim_node
+[3.235s] Invoked command in '/home/colbren/ground-station/build/turtSim_node' returned '0': /usr/bin/cmake --build /home/colbren/ground-station/build/turtSim_node -- -j16 -l16
+[3.237s] Invoking command in '/home/colbren/ground-station/build/turtSim_node': /usr/bin/cmake --install /home/colbren/ground-station/build/turtSim_node
+[3.243s] -- Install configuration: ""
+[3.243s] -- Installing: /home/colbren/ground-station/install/turtSim_node/bin/turtSim_node
+[3.246s] Invoked command in '/home/colbren/ground-station/build/turtSim_node' returned '0': /usr/bin/cmake --install /home/colbren/ground-station/build/turtSim_node

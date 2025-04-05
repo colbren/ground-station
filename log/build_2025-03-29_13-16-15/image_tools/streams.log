@@ -1,0 +1,50 @@
+[0.374s] Invoking command in '/home/colbren/ground-station/build/image_tools': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/image_tools -- -j16 -l16
+[1.280s] [ 11%] [32mBuilding CXX object CMakeFiles/image_tools.dir/src/burger.cpp.o[0m
+[2.172s] [ 22%] [32mBuilding CXX object CMakeFiles/image_tools.dir/src/showimage.cpp.o[0m
+[17.734s] [ 33%] [32mBuilding CXX object CMakeFiles/image_tools.dir/src/cv_mat_sensor_msgs_image_type_adapter.cpp.o[0m
+[19.327s] [ 44%] [32mBuilding CXX object CMakeFiles/image_tools.dir/src/cam2image.cpp.o[0m
+[30.990s] [ 55%] [32m[1mLinking CXX shared library libimage_tools.so[0m
+[32.048s] [ 55%] Built target image_tools
+[32.074s] [ 66%] [32mBuilding CXX object CMakeFiles/showimage.dir/rclcpp_components/node_main_showimage.cpp.o[0m
+[35.443s] [ 77%] [32m[1mLinking CXX executable showimage[0m
+[35.626s] [ 77%] Built target showimage
+[35.652s] [ 88%] [32mBuilding CXX object CMakeFiles/cam2image.dir/rclcpp_components/node_main_cam2image.cpp.o[0m
+[39.047s] [100%] [32m[1mLinking CXX executable cam2image[0m
+[39.183s] [100%] Built target cam2image
+[39.197s] Invoked command in '/home/colbren/ground-station/build/image_tools' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/image_tools -- -j16 -l16
+[39.199s] Invoking command in '/home/colbren/ground-station/build/image_tools': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/image_tools
+[39.208s] -- Install configuration: ""
+[39.209s] -- Installing: /home/colbren/ground-station/install/image_tools/lib/image_tools/cam2image
+[39.209s] -- Set runtime path of "/home/colbren/ground-station/install/image_tools/lib/image_tools/cam2image" to ""
+[39.209s] -- Installing: /home/colbren/ground-station/install/image_tools/lib/image_tools/showimage
+[39.210s] -- Set runtime path of "/home/colbren/ground-station/install/image_tools/lib/image_tools/showimage" to ""
+[39.210s] -- Installing: /home/colbren/ground-station/install/image_tools/lib/libimage_tools.so
+[39.223s] -- Set runtime path of "/home/colbren/ground-station/install/image_tools/lib/libimage_tools.so" to ""
+[39.223s] -- Installing: /home/colbren/ground-station/install/image_tools/include/image_tools
+[39.223s] -- Installing: /home/colbren/ground-station/install/image_tools/include/image_tools/image_tools
+[39.223s] -- Installing: /home/colbren/ground-station/install/image_tools/include/image_tools/image_tools/cv_mat_sensor_msgs_image_type_adapter.hpp
+[39.224s] -- Installing: /home/colbren/ground-station/install/image_tools/include/image_tools/image_tools/visibility_control.h
+[39.224s] -- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/environment/library_path.sh
+[39.224s] -- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/environment/library_path.dsv
+[39.224s] -- Installing: /home/colbren/ground-station/install/image_tools/share/ament_index/resource_index/package_run_dependencies/image_tools
+[39.224s] -- Installing: /home/colbren/ground-station/install/image_tools/share/ament_index/resource_index/parent_prefix_path/image_tools
+[39.225s] -- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/environment/ament_prefix_path.sh
+[39.225s] -- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/environment/ament_prefix_path.dsv
+[39.225s] -- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/environment/path.sh
+[39.226s] -- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/environment/path.dsv
+[39.226s] -- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/local_setup.bash
+[39.226s] -- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/local_setup.sh
+[39.227s] -- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/local_setup.zsh
+[39.227s] -- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/local_setup.dsv
+[39.227s] -- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/package.dsv
+[39.228s] -- Installing: /home/colbren/ground-station/install/image_tools/share/ament_index/resource_index/packages/image_tools
+[39.228s] -- Installing: /home/colbren/ground-station/install/image_tools/share/ament_index/resource_index/rclcpp_components/image_tools
+[39.229s] -- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/cmake/image_toolsExport.cmake
+[39.229s] -- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/cmake/image_toolsExport-noconfig.cmake
+[39.229s] -- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/cmake/ament_cmake_export_libraries-extras.cmake
+[39.230s] -- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/cmake/ament_cmake_export_targets-extras.cmake
+[39.230s] -- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/cmake/ament_cmake_export_dependencies-extras.cmake
+[39.230s] -- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/cmake/image_toolsConfig.cmake
+[39.231s] -- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/cmake/image_toolsConfig-version.cmake
+[39.231s] -- Installing: /home/colbren/ground-station/install/image_tools/share/image_tools/package.xml
+[39.234s] Invoked command in '/home/colbren/ground-station/build/image_tools' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/image_tools

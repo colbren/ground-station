@@ -1,0 +1,8 @@
+{
+  "package_name": "pendulum_msgs",
+  "non_idl_tuples": [
+    "/home/colbren/ground-station/src/demos/pendulum_msgs:msg/JointState.msg",
+    "/home/colbren/ground-station/src/demos/pendulum_msgs:msg/JointCommand.msg",
+    "/home/colbren/ground-station/src/demos/pendulum_msgs:msg/RttestResults.msg"
+  ]
+}

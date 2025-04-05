@@ -1,0 +1,22 @@
+[2.012s] Invoking command in '/home/colbren/ground-station/src/demos/topic_monitor': PYTHONPATH=/home/colbren/ground-station/build/topic_monitor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/colbren/ground-station/install/topic_monitor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/topic_monitor build --build-base /home/colbren/ground-station/build/topic_monitor/build install --record /home/colbren/ground-station/build/topic_monitor/install.log --single-version-externally-managed install_data
+[2.299s] running egg_info
+[2.300s] writing ../../../build/topic_monitor/topic_monitor.egg-info/PKG-INFO
+[2.300s] writing dependency_links to ../../../build/topic_monitor/topic_monitor.egg-info/dependency_links.txt
+[2.300s] writing entry points to ../../../build/topic_monitor/topic_monitor.egg-info/entry_points.txt
+[2.300s] writing requirements to ../../../build/topic_monitor/topic_monitor.egg-info/requires.txt
+[2.301s] writing top-level names to ../../../build/topic_monitor/topic_monitor.egg-info/top_level.txt
+[2.303s] reading manifest file '../../../build/topic_monitor/topic_monitor.egg-info/SOURCES.txt'
+[2.306s] writing manifest file '../../../build/topic_monitor/topic_monitor.egg-info/SOURCES.txt'
+[2.306s] running build
+[2.306s] running build_py
+[2.306s] running install
+[2.306s] running install_lib
+[2.308s] running install_data
+[2.308s] running install_egg_info
+[2.310s] removing '/home/colbren/ground-station/install/topic_monitor/lib/python3.10/site-packages/topic_monitor-0.20.5-py3.10.egg-info' (and everything under it)
+[2.310s] Copying ../../../build/topic_monitor/topic_monitor.egg-info to /home/colbren/ground-station/install/topic_monitor/lib/python3.10/site-packages/topic_monitor-0.20.5-py3.10.egg-info
+[2.311s] running install_scripts
+[2.329s] Installing data_publisher script to /home/colbren/ground-station/install/topic_monitor/lib/topic_monitor
+[2.329s] Installing topic_monitor script to /home/colbren/ground-station/install/topic_monitor/lib/topic_monitor
+[2.330s] writing list of installed files to '/home/colbren/ground-station/build/topic_monitor/install.log'
+[2.367s] Invoked command in '/home/colbren/ground-station/src/demos/topic_monitor' returned '0': PYTHONPATH=/home/colbren/ground-station/build/topic_monitor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/colbren/ground-station/install/topic_monitor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/topic_monitor build --build-base /home/colbren/ground-station/build/topic_monitor/build install --record /home/colbren/ground-station/build/topic_monitor/install.log --single-version-externally-managed install_data

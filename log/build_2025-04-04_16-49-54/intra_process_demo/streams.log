@@ -1,0 +1,48 @@
+[0.525s] Invoking command in '/home/colbren/ground-station/build/intra_process_demo': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/intra_process_demo -- -j16 -l16
+[1.098s] [35m[1mConsolidate compiler generated dependencies of target camera_node[0m
+[1.098s] [35m[1mConsolidate compiler generated dependencies of target watermark_node[0m
+[1.098s] [35m[1mConsolidate compiler generated dependencies of target image_view_node[0m
+[1.098s] [35m[1mConsolidate compiler generated dependencies of target image_pipeline_with_two_image_view[0m
+[1.098s] [35m[1mConsolidate compiler generated dependencies of target image_pipeline_all_in_one[0m
+[1.098s] [35m[1mConsolidate compiler generated dependencies of target cyclic_pipeline[0m
+[1.098s] [35m[1mConsolidate compiler generated dependencies of target two_node_pipeline[0m
+[1.098s] [ 14%] Built target image_pipeline_with_two_image_view
+[1.098s] [ 28%] Built target image_view_node
+[1.098s] [ 42%] Built target watermark_node
+[1.098s] [ 57%] Built target cyclic_pipeline
+[1.098s] [ 78%] Built target two_node_pipeline
+[1.098s] [ 85%] Built target image_pipeline_all_in_one
+[1.098s] [100%] Built target camera_node
+[1.121s] Invoked command in '/home/colbren/ground-station/build/intra_process_demo' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/intra_process_demo -- -j16 -l16
+[1.123s] Invoking command in '/home/colbren/ground-station/build/intra_process_demo': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/intra_process_demo
+[1.159s] -- Install configuration: ""
+[1.159s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/lib/intra_process_demo/two_node_pipeline
+[1.159s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/lib/intra_process_demo/cyclic_pipeline
+[1.160s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/lib/intra_process_demo/image_pipeline_all_in_one
+[1.160s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/lib/intra_process_demo/image_pipeline_with_two_image_view
+[1.160s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/lib/intra_process_demo/camera_node
+[1.160s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/lib/intra_process_demo/watermark_node
+[1.168s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/lib/intra_process_demo/image_view_node
+[1.168s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/include/intra_process_demo
+[1.168s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/include/intra_process_demo/image_pipeline
+[1.169s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/include/intra_process_demo/image_pipeline/camera_node.hpp
+[1.169s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/include/intra_process_demo/image_pipeline/image_view_node.hpp
+[1.169s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/include/intra_process_demo/image_pipeline/common.hpp
+[1.169s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/include/intra_process_demo/image_pipeline/watermark_node.hpp
+[1.169s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/share/ament_index/resource_index/package_run_dependencies/intra_process_demo
+[1.169s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/share/ament_index/resource_index/parent_prefix_path/intra_process_demo
+[1.169s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/share/intra_process_demo/environment/ament_prefix_path.sh
+[1.169s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/share/intra_process_demo/environment/ament_prefix_path.dsv
+[1.169s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/share/intra_process_demo/environment/path.sh
+[1.169s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/share/intra_process_demo/environment/path.dsv
+[1.169s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/share/intra_process_demo/local_setup.bash
+[1.170s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/share/intra_process_demo/local_setup.sh
+[1.170s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/share/intra_process_demo/local_setup.zsh
+[1.170s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/share/intra_process_demo/local_setup.dsv
+[1.170s] -- Installing: /home/colbren/ground-station/install/intra_process_demo/share/intra_process_demo/package.dsv
+[1.170s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/share/ament_index/resource_index/packages/intra_process_demo
+[1.170s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/share/intra_process_demo/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.170s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/share/intra_process_demo/cmake/intra_process_demoConfig.cmake
+[1.171s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/share/intra_process_demo/cmake/intra_process_demoConfig-version.cmake
+[1.171s] -- Up-to-date: /home/colbren/ground-station/install/intra_process_demo/share/intra_process_demo/package.xml
+[1.316s] Invoked command in '/home/colbren/ground-station/build/intra_process_demo' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/intra_process_demo

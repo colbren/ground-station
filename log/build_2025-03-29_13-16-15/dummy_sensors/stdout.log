@@ -1,0 +1,26 @@
+[ 25%] [32mBuilding CXX object CMakeFiles/dummy_laser.dir/src/dummy_laser.cpp.o[0m
+[ 50%] [32m[1mLinking CXX executable dummy_laser[0m
+[ 50%] Built target dummy_laser
+[ 75%] [32mBuilding CXX object CMakeFiles/dummy_joint_states.dir/src/dummy_joint_states.cpp.o[0m
+[100%] [32m[1mLinking CXX executable dummy_joint_states[0m
+[100%] Built target dummy_joint_states
+-- Install configuration: ""
+-- Installing: /home/colbren/ground-station/install/dummy_sensors/lib/dummy_sensors/dummy_joint_states
+-- Set runtime path of "/home/colbren/ground-station/install/dummy_sensors/lib/dummy_sensors/dummy_joint_states" to ""
+-- Installing: /home/colbren/ground-station/install/dummy_sensors/lib/dummy_sensors/dummy_laser
+-- Set runtime path of "/home/colbren/ground-station/install/dummy_sensors/lib/dummy_sensors/dummy_laser" to ""
+-- Installing: /home/colbren/ground-station/install/dummy_sensors/share/ament_index/resource_index/package_run_dependencies/dummy_sensors
+-- Installing: /home/colbren/ground-station/install/dummy_sensors/share/ament_index/resource_index/parent_prefix_path/dummy_sensors
+-- Installing: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/environment/ament_prefix_path.sh
+-- Installing: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/environment/ament_prefix_path.dsv
+-- Installing: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/environment/path.sh
+-- Installing: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/environment/path.dsv
+-- Installing: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/local_setup.bash
+-- Installing: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/local_setup.sh
+-- Installing: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/local_setup.zsh
+-- Installing: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/local_setup.dsv
+-- Installing: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/package.dsv
+-- Installing: /home/colbren/ground-station/install/dummy_sensors/share/ament_index/resource_index/packages/dummy_sensors
+-- Installing: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/cmake/dummy_sensorsConfig.cmake
+-- Installing: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/cmake/dummy_sensorsConfig-version.cmake
+-- Installing: /home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/package.xml

@@ -1,0 +1,50 @@
+[1.594s] Invoking command in '/home/colbren/ground-station/src/demos/topic_monitor': PYTHONPATH=/home/colbren/ground-station/build/topic_monitor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/colbren/ground-station/install/topic_monitor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/topic_monitor build --build-base /home/colbren/ground-station/build/topic_monitor/build install --record /home/colbren/ground-station/build/topic_monitor/install.log --single-version-externally-managed install_data
+[2.085s] running egg_info
+[2.085s] creating ../../../build/topic_monitor/topic_monitor.egg-info
+[2.085s] writing ../../../build/topic_monitor/topic_monitor.egg-info/PKG-INFO
+[2.086s] writing dependency_links to ../../../build/topic_monitor/topic_monitor.egg-info/dependency_links.txt
+[2.086s] writing entry points to ../../../build/topic_monitor/topic_monitor.egg-info/entry_points.txt
+[2.088s] writing requirements to ../../../build/topic_monitor/topic_monitor.egg-info/requires.txt
+[2.088s] writing top-level names to ../../../build/topic_monitor/topic_monitor.egg-info/top_level.txt
+[2.088s] writing manifest file '../../../build/topic_monitor/topic_monitor.egg-info/SOURCES.txt'
+[2.089s] reading manifest file '../../../build/topic_monitor/topic_monitor.egg-info/SOURCES.txt'
+[2.089s] writing manifest file '../../../build/topic_monitor/topic_monitor.egg-info/SOURCES.txt'
+[2.089s] running build
+[2.089s] running build_py
+[2.089s] creating /home/colbren/ground-station/build/topic_monitor/build
+[2.089s] creating /home/colbren/ground-station/build/topic_monitor/build/lib
+[2.089s] creating /home/colbren/ground-station/build/topic_monitor/build/lib/topic_monitor
+[2.089s] copying topic_monitor/__init__.py -> /home/colbren/ground-station/build/topic_monitor/build/lib/topic_monitor
+[2.089s] creating /home/colbren/ground-station/build/topic_monitor/build/lib/topic_monitor/scripts
+[2.089s] copying topic_monitor/scripts/__init__.py -> /home/colbren/ground-station/build/topic_monitor/build/lib/topic_monitor/scripts
+[2.089s] copying topic_monitor/scripts/topic_monitor.py -> /home/colbren/ground-station/build/topic_monitor/build/lib/topic_monitor/scripts
+[2.089s] copying topic_monitor/scripts/data_publisher.py -> /home/colbren/ground-station/build/topic_monitor/build/lib/topic_monitor/scripts
+[2.090s] running install
+[2.090s] running install_lib
+[2.090s] creating /home/colbren/ground-station/install/topic_monitor/lib/python3.10/site-packages/topic_monitor
+[2.090s] creating /home/colbren/ground-station/install/topic_monitor/lib/python3.10/site-packages/topic_monitor/scripts
+[2.090s] copying /home/colbren/ground-station/build/topic_monitor/build/lib/topic_monitor/scripts/__init__.py -> /home/colbren/ground-station/install/topic_monitor/lib/python3.10/site-packages/topic_monitor/scripts
+[2.090s] copying /home/colbren/ground-station/build/topic_monitor/build/lib/topic_monitor/scripts/topic_monitor.py -> /home/colbren/ground-station/install/topic_monitor/lib/python3.10/site-packages/topic_monitor/scripts
+[2.090s] copying /home/colbren/ground-station/build/topic_monitor/build/lib/topic_monitor/scripts/data_publisher.py -> /home/colbren/ground-station/install/topic_monitor/lib/python3.10/site-packages/topic_monitor/scripts
+[2.090s] copying /home/colbren/ground-station/build/topic_monitor/build/lib/topic_monitor/__init__.py -> /home/colbren/ground-station/install/topic_monitor/lib/python3.10/site-packages/topic_monitor
+[2.090s] byte-compiling /home/colbren/ground-station/install/topic_monitor/lib/python3.10/site-packages/topic_monitor/scripts/__init__.py to __init__.cpython-310.pyc
+[2.090s] byte-compiling /home/colbren/ground-station/install/topic_monitor/lib/python3.10/site-packages/topic_monitor/scripts/topic_monitor.py to topic_monitor.cpython-310.pyc
+[2.090s] byte-compiling /home/colbren/ground-station/install/topic_monitor/lib/python3.10/site-packages/topic_monitor/scripts/data_publisher.py to data_publisher.cpython-310.pyc
+[2.090s] byte-compiling /home/colbren/ground-station/install/topic_monitor/lib/python3.10/site-packages/topic_monitor/__init__.py to __init__.cpython-310.pyc
+[2.091s] running install_data
+[2.091s] creating /home/colbren/ground-station/install/topic_monitor/share/ament_index
+[2.096s] creating /home/colbren/ground-station/install/topic_monitor/share/ament_index/resource_index
+[2.096s] creating /home/colbren/ground-station/install/topic_monitor/share/ament_index/resource_index/packages
+[2.096s] copying resource/topic_monitor -> /home/colbren/ground-station/install/topic_monitor/share/ament_index/resource_index/packages
+[2.096s] copying package.xml -> /home/colbren/ground-station/install/topic_monitor/share/topic_monitor
+[2.096s] creating /home/colbren/ground-station/install/topic_monitor/share/topic_monitor/launch
+[2.097s] copying launch/reliability_demo.launch.py -> /home/colbren/ground-station/install/topic_monitor/share/topic_monitor/launch
+[2.097s] copying launch/depth_demo.launch.py -> /home/colbren/ground-station/install/topic_monitor/share/topic_monitor/launch
+[2.097s] copying launch/fragmentation_demo.launch.py -> /home/colbren/ground-station/install/topic_monitor/share/topic_monitor/launch
+[2.097s] running install_egg_info
+[2.097s] Copying ../../../build/topic_monitor/topic_monitor.egg-info to /home/colbren/ground-station/install/topic_monitor/lib/python3.10/site-packages/topic_monitor-0.20.5-py3.10.egg-info
+[2.097s] running install_scripts
+[2.097s] Installing data_publisher script to /home/colbren/ground-station/install/topic_monitor/lib/topic_monitor
+[2.097s] Installing topic_monitor script to /home/colbren/ground-station/install/topic_monitor/lib/topic_monitor
+[2.097s] writing list of installed files to '/home/colbren/ground-station/build/topic_monitor/install.log'
+[2.125s] Invoked command in '/home/colbren/ground-station/src/demos/topic_monitor' returned '0': PYTHONPATH=/home/colbren/ground-station/build/topic_monitor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/colbren/ground-station/install/topic_monitor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/topic_monitor build --build-base /home/colbren/ground-station/build/topic_monitor/build install --record /home/colbren/ground-station/build/topic_monitor/install.log --single-version-externally-managed install_data

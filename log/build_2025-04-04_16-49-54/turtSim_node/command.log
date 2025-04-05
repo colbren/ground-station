@@ -1,0 +1,6 @@
+Invoking command in '/home/colbren/ground-station/build/turtSim_node': /usr/bin/cmake /home/colbren/ground-station/turtSim_node -DCMAKE_INSTALL_PREFIX=/home/colbren/ground-station/install/turtSim_node
+Invoked command in '/home/colbren/ground-station/build/turtSim_node' returned '0': /usr/bin/cmake /home/colbren/ground-station/turtSim_node -DCMAKE_INSTALL_PREFIX=/home/colbren/ground-station/install/turtSim_node
+Invoking command in '/home/colbren/ground-station/build/turtSim_node': /usr/bin/cmake --build /home/colbren/ground-station/build/turtSim_node -- -j16 -l16
+Invoked command in '/home/colbren/ground-station/build/turtSim_node' returned '0': /usr/bin/cmake --build /home/colbren/ground-station/build/turtSim_node -- -j16 -l16
+Invoking command in '/home/colbren/ground-station/build/turtSim_node': /usr/bin/cmake --install /home/colbren/ground-station/build/turtSim_node
+Invoked command in '/home/colbren/ground-station/build/turtSim_node' returned '0': /usr/bin/cmake --install /home/colbren/ground-station/build/turtSim_node

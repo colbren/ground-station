@@ -1,0 +1,5 @@
+composition::Talker;/home/colbren/ground-station/build/composition/libtalker_component.so
+composition::Listener;/home/colbren/ground-station/build/composition/liblistener_component.so
+composition::NodeLikeListener;/home/colbren/ground-station/build/composition/libnode_like_listener_component.so
+composition::Server;/home/colbren/ground-station/build/composition/libserver_component.so
+composition::Client;/home/colbren/ground-station/build/composition/libclient_component.so

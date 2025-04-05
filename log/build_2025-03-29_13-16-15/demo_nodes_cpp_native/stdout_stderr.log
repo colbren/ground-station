@@ -1,0 +1,27 @@
+[ 25%] [32mBuilding CXX object CMakeFiles/talker_native.dir/src/talker.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library libtalker_native.so[0m
+[ 50%] Built target talker_native
+[ 75%] [32mBuilding CXX object CMakeFiles/talker.dir/rclcpp_components/node_main_talker.cpp.o[0m
+[100%] [32m[1mLinking CXX executable talker[0m
+[100%] Built target talker
+-- Install configuration: ""
+-- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/lib/demo_nodes_cpp_native/talker
+-- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp_native/lib/demo_nodes_cpp_native/talker" to ""
+-- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/lib/libtalker_native.so
+-- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp_native/lib/libtalker_native.so" to ""
+-- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/ament_index/resource_index/package_run_dependencies/demo_nodes_cpp_native
+-- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/ament_index/resource_index/parent_prefix_path/demo_nodes_cpp_native
+-- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/environment/ament_prefix_path.sh
+-- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/environment/ament_prefix_path.dsv
+-- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/environment/path.sh
+-- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/environment/path.dsv
+-- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/local_setup.bash
+-- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/local_setup.sh
+-- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/local_setup.zsh
+-- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/local_setup.dsv
+-- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/package.dsv
+-- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/ament_index/resource_index/packages/demo_nodes_cpp_native
+-- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/ament_index/resource_index/rclcpp_components/demo_nodes_cpp_native
+-- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/cmake/demo_nodes_cpp_nativeConfig.cmake
+-- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/cmake/demo_nodes_cpp_nativeConfig-version.cmake
+-- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/package.xml

@@ -1,0 +1,30 @@
+[0.583s] Invoking command in '/home/colbren/ground-station/build/pendulum_control': AMENT_PREFIX_PATH=/home/colbren/ground-station/install/pendulum_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/colbren/ground-station/install/pendulum_msgs:/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble LD_LIBRARY_PATH=/home/colbren/ground-station/install/pendulum_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/colbren/ground-station/build/pendulum_control -- -j16 -l16
+[0.646s] [35m[1mConsolidate compiler generated dependencies of target pendulum_logger[0m
+[0.646s] [35m[1mConsolidate compiler generated dependencies of target pendulum_teleop[0m
+[0.646s] [35m[1mConsolidate compiler generated dependencies of target pendulum_demo[0m
+[0.677s] [ 33%] Built target pendulum_demo
+[0.677s] [ 66%] Built target pendulum_teleop
+[0.685s] [100%] Built target pendulum_logger
+[0.703s] Invoked command in '/home/colbren/ground-station/build/pendulum_control' returned '0': AMENT_PREFIX_PATH=/home/colbren/ground-station/install/pendulum_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/colbren/ground-station/install/pendulum_msgs:/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble LD_LIBRARY_PATH=/home/colbren/ground-station/install/pendulum_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/colbren/ground-station/build/pendulum_control -- -j16 -l16
+[0.705s] Invoking command in '/home/colbren/ground-station/build/pendulum_control': AMENT_PREFIX_PATH=/home/colbren/ground-station/install/pendulum_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/colbren/ground-station/install/pendulum_msgs:/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble LD_LIBRARY_PATH=/home/colbren/ground-station/install/pendulum_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/colbren/ground-station/build/pendulum_control
+[0.716s] -- Install configuration: ""
+[0.717s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_control/bin/pendulum_demo
+[0.719s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_control/bin/pendulum_logger
+[0.720s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_control/bin/pendulum_teleop
+[0.720s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_control/bin/pendulum_launch.bash
+[0.720s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_control/share/ament_index/resource_index/package_run_dependencies/pendulum_control
+[0.720s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_control/share/ament_index/resource_index/parent_prefix_path/pendulum_control
+[0.721s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_control/share/pendulum_control/environment/ament_prefix_path.sh
+[0.721s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_control/share/pendulum_control/environment/ament_prefix_path.dsv
+[0.721s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_control/share/pendulum_control/environment/path.sh
+[0.721s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_control/share/pendulum_control/environment/path.dsv
+[0.721s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_control/share/pendulum_control/local_setup.bash
+[0.721s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_control/share/pendulum_control/local_setup.sh
+[0.721s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_control/share/pendulum_control/local_setup.zsh
+[0.722s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_control/share/pendulum_control/local_setup.dsv
+[0.722s] -- Installing: /home/colbren/ground-station/install/pendulum_control/share/pendulum_control/package.dsv
+[0.722s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_control/share/ament_index/resource_index/packages/pendulum_control
+[0.722s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_control/share/pendulum_control/cmake/pendulum_controlConfig.cmake
+[0.722s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_control/share/pendulum_control/cmake/pendulum_controlConfig-version.cmake
+[0.722s] -- Up-to-date: /home/colbren/ground-station/install/pendulum_control/share/pendulum_control/package.xml
+[0.725s] Invoked command in '/home/colbren/ground-station/build/pendulum_control' returned '0': AMENT_PREFIX_PATH=/home/colbren/ground-station/install/pendulum_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/colbren/ground-station/install/pendulum_msgs:/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble LD_LIBRARY_PATH=/home/colbren/ground-station/install/pendulum_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/colbren/ground-station/install/pendulum_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/colbren/ground-station/build/pendulum_control

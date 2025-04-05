@@ -1,0 +1,97 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-eef3494474ef7a0b1f1c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "pendulum_control",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "pendulum_control_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pendulum_control_uninstall-fde6d33002a0ae7d9a83.json",
+					"name" : "pendulum_control_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pendulum_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pendulum_demo-d111c714eada9e05a621.json",
+					"name" : "pendulum_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pendulum_logger::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pendulum_logger-13b824c49c141f57abc4.json",
+					"name" : "pendulum_logger",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pendulum_teleop::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pendulum_teleop-516f5a3945db1b9466f1.json",
+					"name" : "pendulum_teleop",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-413cf9783a31fdfacc49.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/colbren/ground-station/build/pendulum_control",
+		"source" : "/home/colbren/ground-station/src/demos/pendulum_control"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

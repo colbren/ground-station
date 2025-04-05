@@ -1,0 +1,50 @@
+[0.512s] Invoking command in '/home/colbren/ground-station/build/dummy_robot_bringup': AMENT_PREFIX_PATH=/home/colbren/ground-station/install/dummy_sensors:/home/colbren/ground-station/install/dummy_map_server:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/colbren/ground-station/install/dummy_sensors:/home/colbren/ground-station/install/dummy_map_server:/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake /home/colbren/ground-station/src/demos/dummy_robot/dummy_robot_bringup -DCMAKE_INSTALL_PREFIX=/home/colbren/ground-station/install/dummy_robot_bringup
+[2.519s] -- The C compiler identification is GNU 11.4.0
+[2.521s] -- The CXX compiler identification is GNU 11.4.0
+[2.521s] -- Detecting C compiler ABI info
+[2.521s] -- Detecting C compiler ABI info - done
+[2.521s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.522s] -- Detecting C compile features
+[2.523s] -- Detecting C compile features - done
+[2.524s] -- Detecting CXX compiler ABI info
+[2.529s] -- Detecting CXX compiler ABI info - done
+[2.532s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.532s] -- Detecting CXX compile features
+[2.533s] -- Detecting CXX compile features - done
+[2.533s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.533s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.533s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.533s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.533s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.533s] -- Added test 'lint_cmake' to check CMake code style
+[2.534s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.534s] -- Added test 'xmllint' to check XML markup files
+[2.534s] -- Configuring done
+[2.534s] -- Generating done
+[2.534s] -- Build files have been written to: /home/colbren/ground-station/build/dummy_robot_bringup
+[2.558s] Invoked command in '/home/colbren/ground-station/build/dummy_robot_bringup' returned '0': AMENT_PREFIX_PATH=/home/colbren/ground-station/install/dummy_sensors:/home/colbren/ground-station/install/dummy_map_server:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/colbren/ground-station/install/dummy_sensors:/home/colbren/ground-station/install/dummy_map_server:/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake /home/colbren/ground-station/src/demos/dummy_robot/dummy_robot_bringup -DCMAKE_INSTALL_PREFIX=/home/colbren/ground-station/install/dummy_robot_bringup
+[2.559s] Invoking command in '/home/colbren/ground-station/build/dummy_robot_bringup': AMENT_PREFIX_PATH=/home/colbren/ground-station/install/dummy_sensors:/home/colbren/ground-station/install/dummy_map_server:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/colbren/ground-station/install/dummy_sensors:/home/colbren/ground-station/install/dummy_map_server:/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/dummy_robot_bringup -- -j16 -l16
+[2.604s] Invoked command in '/home/colbren/ground-station/build/dummy_robot_bringup' returned '0': AMENT_PREFIX_PATH=/home/colbren/ground-station/install/dummy_sensors:/home/colbren/ground-station/install/dummy_map_server:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/colbren/ground-station/install/dummy_sensors:/home/colbren/ground-station/install/dummy_map_server:/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/dummy_robot_bringup -- -j16 -l16
+[2.607s] Invoking command in '/home/colbren/ground-station/build/dummy_robot_bringup': AMENT_PREFIX_PATH=/home/colbren/ground-station/install/dummy_sensors:/home/colbren/ground-station/install/dummy_map_server:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/colbren/ground-station/install/dummy_sensors:/home/colbren/ground-station/install/dummy_map_server:/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/dummy_robot_bringup
+[10.009s] -- Install configuration: ""
+[10.010s] -- Installing: /home/colbren/ground-station/install/dummy_robot_bringup/share/dummy_robot_bringup/launch
+[10.010s] -- Installing: /home/colbren/ground-station/install/dummy_robot_bringup/share/dummy_robot_bringup/launch/dummy_robot_bringup_launch.yaml
+[10.010s] -- Installing: /home/colbren/ground-station/install/dummy_robot_bringup/share/dummy_robot_bringup/launch/dummy_robot_bringup_launch.xml
+[10.010s] -- Installing: /home/colbren/ground-station/install/dummy_robot_bringup/share/dummy_robot_bringup/launch/dummy_robot_bringup.launch.py
+[10.010s] -- Installing: /home/colbren/ground-station/install/dummy_robot_bringup/share/dummy_robot_bringup/launch/single_rrbot.urdf
+[10.010s] -- Installing: /home/colbren/ground-station/install/dummy_robot_bringup/share/ament_index/resource_index/package_run_dependencies/dummy_robot_bringup
+[10.010s] -- Installing: /home/colbren/ground-station/install/dummy_robot_bringup/share/ament_index/resource_index/parent_prefix_path/dummy_robot_bringup
+[10.011s] -- Installing: /home/colbren/ground-station/install/dummy_robot_bringup/share/dummy_robot_bringup/environment/ament_prefix_path.sh
+[10.011s] -- Installing: /home/colbren/ground-station/install/dummy_robot_bringup/share/dummy_robot_bringup/environment/ament_prefix_path.dsv
+[10.011s] -- Installing: /home/colbren/ground-station/install/dummy_robot_bringup/share/dummy_robot_bringup/environment/path.sh
+[10.011s] -- Installing: /home/colbren/ground-station/install/dummy_robot_bringup/share/dummy_robot_bringup/environment/path.dsv
+[10.011s] -- Installing: /home/colbren/ground-station/install/dummy_robot_bringup/share/dummy_robot_bringup/local_setup.bash
+[10.011s] -- Installing: /home/colbren/ground-station/install/dummy_robot_bringup/share/dummy_robot_bringup/local_setup.sh
+[10.012s] -- Installing: /home/colbren/ground-station/install/dummy_robot_bringup/share/dummy_robot_bringup/local_setup.zsh
+[10.012s] -- Installing: /home/colbren/ground-station/install/dummy_robot_bringup/share/dummy_robot_bringup/local_setup.dsv
+[10.012s] -- Installing: /home/colbren/ground-station/install/dummy_robot_bringup/share/dummy_robot_bringup/package.dsv
+[10.014s] -- Installing: /home/colbren/ground-station/install/dummy_robot_bringup/share/ament_index/resource_index/packages/dummy_robot_bringup
+[10.016s] -- Installing: /home/colbren/ground-station/install/dummy_robot_bringup/share/dummy_robot_bringup/cmake/dummy_robot_bringupConfig.cmake
+[10.016s] -- Installing: /home/colbren/ground-station/install/dummy_robot_bringup/share/dummy_robot_bringup/cmake/dummy_robot_bringupConfig-version.cmake
+[10.016s] -- Installing: /home/colbren/ground-station/install/dummy_robot_bringup/share/dummy_robot_bringup/package.xml
+[10.017s] Invoked command in '/home/colbren/ground-station/build/dummy_robot_bringup' returned '0': AMENT_PREFIX_PATH=/home/colbren/ground-station/install/dummy_sensors:/home/colbren/ground-station/install/dummy_map_server:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/colbren/ground-station/install/dummy_sensors:/home/colbren/ground-station/install/dummy_map_server:/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/dummy_robot_bringup

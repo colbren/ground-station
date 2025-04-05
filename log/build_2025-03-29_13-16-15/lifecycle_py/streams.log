@@ -1,0 +1,37 @@
+[0.926s] Invoking command in '/home/colbren/ground-station/src/demos/lifecycle_py': AMENT_PREFIX_PATH=/home/colbren/ground-station/install/lifecycle:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/colbren/ground-station/install/lifecycle PYTHONPATH=/home/colbren/ground-station/build/lifecycle_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/colbren/ground-station/install/lifecycle_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/lifecycle_py build --build-base /home/colbren/ground-station/build/lifecycle_py/build install --record /home/colbren/ground-station/build/lifecycle_py/install.log --single-version-externally-managed install_data
+[1.189s] running egg_info
+[1.190s] creating ../../../build/lifecycle_py/lifecycle_py.egg-info
+[1.190s] writing ../../../build/lifecycle_py/lifecycle_py.egg-info/PKG-INFO
+[1.190s] writing dependency_links to ../../../build/lifecycle_py/lifecycle_py.egg-info/dependency_links.txt
+[1.190s] writing entry points to ../../../build/lifecycle_py/lifecycle_py.egg-info/entry_points.txt
+[1.191s] writing requirements to ../../../build/lifecycle_py/lifecycle_py.egg-info/requires.txt
+[1.191s] writing top-level names to ../../../build/lifecycle_py/lifecycle_py.egg-info/top_level.txt
+[1.191s] writing manifest file '../../../build/lifecycle_py/lifecycle_py.egg-info/SOURCES.txt'
+[1.193s] reading manifest file '../../../build/lifecycle_py/lifecycle_py.egg-info/SOURCES.txt'
+[1.194s] writing manifest file '../../../build/lifecycle_py/lifecycle_py.egg-info/SOURCES.txt'
+[1.194s] running build
+[1.195s] running build_py
+[1.195s] creating /home/colbren/ground-station/build/lifecycle_py/build
+[1.195s] creating /home/colbren/ground-station/build/lifecycle_py/build/lib
+[1.196s] creating /home/colbren/ground-station/build/lifecycle_py/build/lib/lifecycle_py
+[1.196s] copying lifecycle_py/__init__.py -> /home/colbren/ground-station/build/lifecycle_py/build/lib/lifecycle_py
+[1.196s] copying lifecycle_py/talker.py -> /home/colbren/ground-station/build/lifecycle_py/build/lib/lifecycle_py
+[1.196s] running install
+[1.196s] running install_lib
+[1.197s] creating /home/colbren/ground-station/install/lifecycle_py/lib/python3.10/site-packages/lifecycle_py
+[1.198s] copying /home/colbren/ground-station/build/lifecycle_py/build/lib/lifecycle_py/__init__.py -> /home/colbren/ground-station/install/lifecycle_py/lib/python3.10/site-packages/lifecycle_py
+[1.198s] copying /home/colbren/ground-station/build/lifecycle_py/build/lib/lifecycle_py/talker.py -> /home/colbren/ground-station/install/lifecycle_py/lib/python3.10/site-packages/lifecycle_py
+[1.199s] byte-compiling /home/colbren/ground-station/install/lifecycle_py/lib/python3.10/site-packages/lifecycle_py/__init__.py to __init__.cpython-310.pyc
+[1.199s] byte-compiling /home/colbren/ground-station/install/lifecycle_py/lib/python3.10/site-packages/lifecycle_py/talker.py to talker.cpython-310.pyc
+[1.200s] running install_data
+[1.200s] creating /home/colbren/ground-station/install/lifecycle_py/share/ament_index
+[1.200s] creating /home/colbren/ground-station/install/lifecycle_py/share/ament_index/resource_index
+[1.201s] creating /home/colbren/ground-station/install/lifecycle_py/share/ament_index/resource_index/packages
+[1.201s] copying resource/lifecycle_py -> /home/colbren/ground-station/install/lifecycle_py/share/ament_index/resource_index/packages
+[1.201s] copying package.xml -> /home/colbren/ground-station/install/lifecycle_py/share/lifecycle_py
+[1.201s] running install_egg_info
+[1.204s] Copying ../../../build/lifecycle_py/lifecycle_py.egg-info to /home/colbren/ground-station/install/lifecycle_py/lib/python3.10/site-packages/lifecycle_py-0.20.5-py3.10.egg-info
+[1.206s] running install_scripts
+[1.227s] Installing lifecycle_talker script to /home/colbren/ground-station/install/lifecycle_py/lib/lifecycle_py
+[1.227s] writing list of installed files to '/home/colbren/ground-station/build/lifecycle_py/install.log'
+[1.268s] Invoked command in '/home/colbren/ground-station/src/demos/lifecycle_py' returned '0': AMENT_PREFIX_PATH=/home/colbren/ground-station/install/lifecycle:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/colbren/ground-station/install/lifecycle PYTHONPATH=/home/colbren/ground-station/build/lifecycle_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/colbren/ground-station/install/lifecycle_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/lifecycle_py build --build-base /home/colbren/ground-station/build/lifecycle_py/build install --record /home/colbren/ground-station/build/lifecycle_py/install.log --single-version-externally-managed install_data

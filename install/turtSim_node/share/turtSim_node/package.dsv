@@ -1,0 +1,6 @@
+source;share/turtSim_node/hook/path.ps1
+source;share/turtSim_node/hook/path.dsv
+source;share/turtSim_node/hook/path.sh
+source;share/turtSim_node/hook/pythonscriptspath.ps1
+source;share/turtSim_node/hook/pythonscriptspath.dsv
+source;share/turtSim_node/hook/pythonscriptspath.sh

@@ -1,0 +1,181 @@
+[0.072s] Invoking command in '/home/colbren/ground-station/build/demo_nodes_cpp': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/demo_nodes_cpp -- -j16 -l16
+[1.295s] [  1%] [32mBuilding CXX object CMakeFiles/allocator_tutorial.dir/src/topics/allocator_tutorial.cpp.o[0m
+[14.396s] [  2%] [32m[1mLinking CXX executable allocator_tutorial[0m
+[15.358s] [  2%] Built target allocator_tutorial
+[15.398s] [  4%] [32mBuilding CXX object CMakeFiles/parameter_blackboard.dir/rclcpp_components/node_main_parameter_blackboard.cpp.o[0m
+[20.218s] [  5%] [32m[1mLinking CXX executable parameter_blackboard[0m
+[20.414s] [  5%] Built target parameter_blackboard
+[20.448s] [  7%] [32mBuilding CXX object CMakeFiles/set_and_get_parameters.dir/rclcpp_components/node_main_set_and_get_parameters.cpp.o[0m
+[24.538s] [  8%] [32m[1mLinking CXX executable set_and_get_parameters[0m
+[24.743s] [  8%] Built target set_and_get_parameters
+[24.783s] [ 10%] [32mBuilding CXX object CMakeFiles/parameter_events_async.dir/rclcpp_components/node_main_parameter_events_async.cpp.o[0m
+[28.557s] [ 11%] [32m[1mLinking CXX executable parameter_events_async[0m
+[28.734s] [ 11%] Built target parameter_events_async
+[28.756s] [ 13%] [32mBuilding CXX object CMakeFiles/even_parameters_node.dir/rclcpp_components/node_main_even_parameters_node.cpp.o[0m
+[32.486s] [ 14%] [32m[1mLinking CXX executable even_parameters_node[0m
+[32.636s] [ 14%] Built target even_parameters_node
+[32.662s] [ 16%] [32mBuilding CXX object CMakeFiles/content_filtering_publisher.dir/rclcpp_components/node_main_content_filtering_publisher.cpp.o[0m
+[36.088s] [ 17%] [32m[1mLinking CXX executable content_filtering_publisher[0m
+[36.219s] [ 17%] Built target content_filtering_publisher
+[36.243s] [ 19%] [32mBuilding CXX object CMakeFiles/content_filtering_subscriber.dir/rclcpp_components/node_main_content_filtering_subscriber.cpp.o[0m
+[39.548s] [ 20%] [32m[1mLinking CXX executable content_filtering_subscriber[0m
+[39.685s] [ 20%] Built target content_filtering_subscriber
+[39.709s] [ 22%] [32mBuilding CXX object CMakeFiles/talker.dir/rclcpp_components/node_main_talker.cpp.o[0m
+[42.790s] [ 23%] [32m[1mLinking CXX executable talker[0m
+[42.913s] [ 23%] Built target talker
+[42.935s] [ 25%] [32mBuilding CXX object CMakeFiles/talker_loaned_message.dir/rclcpp_components/node_main_talker_loaned_message.cpp.o[0m
+[45.815s] [ 26%] [32m[1mLinking CXX executable talker_loaned_message[0m
+[45.932s] [ 26%] Built target talker_loaned_message
+[45.957s] [ 27%] [32mBuilding CXX object CMakeFiles/talker_serialized_message.dir/rclcpp_components/node_main_talker_serialized_message.cpp.o[0m
+[48.837s] [ 29%] [32m[1mLinking CXX executable talker_serialized_message[0m
+[48.945s] [ 29%] Built target talker_serialized_message
+[48.971s] [ 30%] [32mBuilding CXX object CMakeFiles/listener.dir/rclcpp_components/node_main_listener.cpp.o[0m
+[51.504s] [ 32%] [32m[1mLinking CXX executable listener[0m
+[51.613s] [ 32%] Built target listener
+[51.638s] [ 33%] [32mBuilding CXX object CMakeFiles/listener_serialized_message.dir/rclcpp_components/node_main_listener_serialized_message.cpp.o[0m
+[54.130s] [ 35%] [32m[1mLinking CXX executable listener_serialized_message[0m
+[54.243s] [ 35%] Built target listener_serialized_message
+[54.267s] [ 36%] [32mBuilding CXX object CMakeFiles/listener_best_effort.dir/rclcpp_components/node_main_listener_best_effort.cpp.o[0m
+[56.765s] [ 38%] [32m[1mLinking CXX executable listener_best_effort[0m
+[56.871s] [ 38%] Built target listener_best_effort
+[56.896s] [ 39%] [32mBuilding CXX object CMakeFiles/list_parameters.dir/rclcpp_components/node_main_list_parameters.cpp.o[0m
+[59.357s] [ 41%] [32m[1mLinking CXX executable list_parameters[0m
+[59.467s] [ 41%] Built target list_parameters
+[59.492s] [ 42%] [32mBuilding CXX object CMakeFiles/add_two_ints_client_async.dir/rclcpp_components/node_main_add_two_ints_client_async.cpp.o[0m
+[61.954s] [ 44%] [32m[1mLinking CXX executable add_two_ints_client_async[0m
+[62.057s] [ 44%] Built target add_two_ints_client_async
+[62.081s] [ 45%] [32mBuilding CXX object CMakeFiles/add_two_ints_server.dir/rclcpp_components/node_main_add_two_ints_server.cpp.o[0m
+[64.722s] [ 47%] [32m[1mLinking CXX executable add_two_ints_server[0m
+[64.823s] [ 47%] Built target add_two_ints_server
+[64.847s] [ 48%] [32mBuilding CXX object CMakeFiles/reuse_timer.dir/rclcpp_components/node_main_reuse_timer.cpp.o[0m
+[67.366s] [ 50%] [32m[1mLinking CXX executable reuse_timer[0m
+[67.483s] [ 50%] Built target reuse_timer
+[67.505s] [ 51%] [32mBuilding CXX object CMakeFiles/one_off_timer.dir/rclcpp_components/node_main_one_off_timer.cpp.o[0m
+[70.148s] [ 52%] [32m[1mLinking CXX executable one_off_timer[0m
+[70.247s] [ 52%] Built target one_off_timer
+[70.269s] [ 54%] [32mBuilding CXX object CMakeFiles/topics_library.dir/src/topics/content_filtering_publisher.cpp.o[0m
+[73.604s] [ 55%] [32mBuilding CXX object CMakeFiles/topics_library.dir/src/topics/listener_best_effort.cpp.o[0m
+[79.833s] [ 57%] [32mBuilding CXX object CMakeFiles/topics_library.dir/src/topics/listener_serialized_message.cpp.o[0m
+[86.011s] [ 58%] [32mBuilding CXX object CMakeFiles/topics_library.dir/src/topics/listener.cpp.o[0m
+[92.122s] [ 60%] [32mBuilding CXX object CMakeFiles/topics_library.dir/src/topics/talker_serialized_message.cpp.o[0m
+[95.252s] [ 61%] [32mBuilding CXX object CMakeFiles/topics_library.dir/src/topics/talker_loaned_message.cpp.o[0m
+[98.664s] [ 63%] [32mBuilding CXX object CMakeFiles/topics_library.dir/src/topics/talker.cpp.o[0m
+[102.141s] [ 64%] [32mBuilding CXX object CMakeFiles/topics_library.dir/src/topics/content_filtering_subscriber.cpp.o[0m
+[108.434s] [ 66%] [32m[1mLinking CXX shared library libtopics_library.so[0m
+[109.315s] [ 66%] Built target topics_library
+[109.337s] [ 67%] [32mBuilding CXX object CMakeFiles/parameters_library.dir/src/parameters/list_parameters.cpp.o[0m
+[111.690s] [ 69%] [32mBuilding CXX object CMakeFiles/parameters_library.dir/src/parameters/even_parameters_node.cpp.o[0m
+[113.961s] [ 70%] [32mBuilding CXX object CMakeFiles/parameters_library.dir/src/parameters/parameter_events_async.cpp.o[0m
+[120.037s] [ 72%] [32mBuilding CXX object CMakeFiles/parameters_library.dir/src/parameters/set_and_get_parameters.cpp.o[0m
+[120.038s] [ 73%] [32mBuilding CXX object CMakeFiles/parameters_library.dir/src/parameters/parameter_blackboard.cpp.o[0m
+[122.560s] [ 75%] [32m[1mLinking CXX shared library libparameters_library.so[0m
+[122.893s] [ 75%] Built target parameters_library
+[122.913s] [ 80%] [32mBuilding CXX object CMakeFiles/services_library.dir/src/services/add_two_ints_server.cpp.o[0m
+[122.913s] [ 80%] [32mBuilding CXX object CMakeFiles/list_parameters_async.dir/src/parameters/list_parameters_async.cpp.o[0m
+[122.913s] [ 80%] [32mBuilding CXX object CMakeFiles/parameter_event_handler.dir/src/parameters/parameter_event_handler.cpp.o[0m
+[122.914s] [ 80%] [32mBuilding CXX object CMakeFiles/set_and_get_parameters_async.dir/src/parameters/set_and_get_parameters_async.cpp.o[0m
+[122.914s] [ 82%] [32mBuilding CXX object CMakeFiles/services_library.dir/src/services/add_two_ints_client.cpp.o[0m
+[122.914s] [ 83%] [32mBuilding CXX object CMakeFiles/timers_library.dir/src/timers/one_off_timer.cpp.o[0m
+[122.914s] [ 85%] [32mBuilding CXX object CMakeFiles/timers_library.dir/src/timers/reuse_timer.cpp.o[0m
+[122.914s] [ 86%] [32mBuilding CXX object CMakeFiles/services_library.dir/src/services/add_two_ints_client_async.cpp.o[0m
+[122.914s] [ 88%] [32mBuilding CXX object CMakeFiles/parameter_events.dir/src/parameters/parameter_events.cpp.o[0m
+[126.336s] [ 89%] [32m[1mLinking CXX executable list_parameters_async[0m
+[126.379s] [ 91%] [32m[1mLinking CXX shared library libtimers_library.so[0m
+[126.525s] [ 91%] Built target list_parameters_async
+[126.559s] [ 92%] [32mBuilding CXX object CMakeFiles/add_two_ints_client.dir/src/services/add_two_ints_client.cpp.o[0m
+[126.579s] [ 92%] Built target timers_library
+[127.333s] [ 94%] [32m[1mLinking CXX executable set_and_get_parameters_async[0m
+[127.478s] [ 94%] Built target set_and_get_parameters_async
+[127.632s] [ 95%] [32m[1mLinking CXX shared library libservices_library.so[0m
+[127.807s] [ 95%] Built target services_library
+[129.555s] [ 97%] [32m[1mLinking CXX executable add_two_ints_client[0m
+[129.690s] [ 97%] Built target add_two_ints_client
+[130.551s] [ 98%] [32m[1mLinking CXX executable parameter_events[0m
+[130.850s] [ 98%] Built target parameter_events
+[131.477s] [100%] [32m[1mLinking CXX executable parameter_event_handler[0m
+[131.787s] [100%] Built target parameter_event_handler
+[131.800s] Invoked command in '/home/colbren/ground-station/build/demo_nodes_cpp' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/demo_nodes_cpp -- -j16 -l16
+[131.802s] Invoking command in '/home/colbren/ground-station/build/demo_nodes_cpp': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/demo_nodes_cpp
+[131.809s] -- Install configuration: ""
+[131.809s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/allocator_tutorial
+[131.813s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/allocator_tutorial" to ""
+[131.813s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/add_two_ints_client
+[131.814s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/add_two_ints_client" to ""
+[131.814s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/list_parameters_async
+[131.814s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/list_parameters_async" to ""
+[131.814s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/parameter_events
+[131.819s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/parameter_events" to ""
+[131.819s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/parameter_event_handler
+[131.823s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/parameter_event_handler" to ""
+[131.823s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/set_and_get_parameters_async
+[131.823s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/set_and_get_parameters_async" to ""
+[131.823s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/one_off_timer
+[131.824s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/one_off_timer" to ""
+[131.824s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/reuse_timer
+[131.824s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/reuse_timer" to ""
+[131.824s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/add_two_ints_server
+[131.825s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/add_two_ints_server" to ""
+[131.825s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/add_two_ints_client_async
+[131.825s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/add_two_ints_client_async" to ""
+[131.825s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/list_parameters
+[131.826s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/list_parameters" to ""
+[131.826s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/parameter_blackboard
+[131.826s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/parameter_blackboard" to ""
+[131.826s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/set_and_get_parameters
+[131.827s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/set_and_get_parameters" to ""
+[131.827s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/parameter_events_async
+[131.827s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/parameter_events_async" to ""
+[131.827s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/even_parameters_node
+[131.827s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/even_parameters_node" to ""
+[131.828s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/content_filtering_publisher
+[131.828s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/content_filtering_publisher" to ""
+[131.828s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/content_filtering_subscriber
+[131.828s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/content_filtering_subscriber" to ""
+[131.828s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/talker
+[131.829s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/talker" to ""
+[131.829s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/talker_loaned_message
+[131.829s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/talker_loaned_message" to ""
+[131.829s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/talker_serialized_message
+[131.830s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/talker_serialized_message" to ""
+[131.830s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/listener
+[131.830s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/listener" to ""
+[131.830s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/listener_serialized_message
+[131.831s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/listener_serialized_message" to ""
+[131.831s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/listener_best_effort
+[131.831s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/listener_best_effort" to ""
+[131.831s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/libtimers_library.so
+[131.832s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/libtimers_library.so" to ""
+[131.832s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/libservices_library.so
+[131.834s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/libservices_library.so" to ""
+[131.834s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/libparameters_library.so
+[131.840s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/libparameters_library.so" to ""
+[131.841s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/lib/libtopics_library.so
+[131.853s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp/lib/libtopics_library.so" to ""
+[131.853s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch
+[131.853s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/services
+[131.853s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/services/add_two_ints_async.launch.py
+[131.853s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/services/add_two_ints.launch.py
+[131.853s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/services/add_two_ints_async.launch.xml
+[131.854s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/services/add_two_ints.launch.xml
+[131.854s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/topics
+[131.854s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/topics/talker_listener.launch.py
+[131.854s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/topics/talker_listener.launch.xml
+[131.855s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/topics/talker_listener_best_effort.launch.xml
+[131.855s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/topics/talker_listener_best_effort.launch.py
+[131.855s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/ament_index/resource_index/package_run_dependencies/demo_nodes_cpp
+[131.856s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/ament_index/resource_index/parent_prefix_path/demo_nodes_cpp
+[131.857s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/environment/ament_prefix_path.sh
+[131.857s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/environment/ament_prefix_path.dsv
+[131.857s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/environment/path.sh
+[131.857s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/environment/path.dsv
+[131.858s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/local_setup.bash
+[131.858s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/local_setup.sh
+[131.859s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/local_setup.zsh
+[131.859s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/local_setup.dsv
+[131.859s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/package.dsv
+[131.860s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/ament_index/resource_index/packages/demo_nodes_cpp
+[131.860s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/ament_index/resource_index/rclcpp_components/demo_nodes_cpp
+[131.860s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/cmake/demo_nodes_cppConfig.cmake
+[131.861s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/cmake/demo_nodes_cppConfig-version.cmake
+[131.861s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/package.xml
+[131.864s] Invoked command in '/home/colbren/ground-station/build/demo_nodes_cpp' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/demo_nodes_cpp

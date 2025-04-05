@@ -1,0 +1,33 @@
+[ 16%] [32mBuilding CXX object CMakeFiles/lifecycle_talker.dir/src/lifecycle_talker.cpp.o[0m
+[ 33%] [32m[1mLinking CXX executable lifecycle_talker[0m
+[ 33%] Built target lifecycle_talker
+[ 50%] [32mBuilding CXX object CMakeFiles/lifecycle_service_client.dir/src/lifecycle_service_client.cpp.o[0m
+[ 66%] [32m[1mLinking CXX executable lifecycle_service_client[0m
+[ 66%] Built target lifecycle_service_client
+[ 83%] [32mBuilding CXX object CMakeFiles/lifecycle_listener.dir/src/lifecycle_listener.cpp.o[0m
+[100%] [32m[1mLinking CXX executable lifecycle_listener[0m
+[100%] Built target lifecycle_listener
+-- Install configuration: ""
+-- Installing: /home/colbren/ground-station/install/lifecycle/lib/lifecycle/lifecycle_talker
+-- Set runtime path of "/home/colbren/ground-station/install/lifecycle/lib/lifecycle/lifecycle_talker" to ""
+-- Installing: /home/colbren/ground-station/install/lifecycle/lib/lifecycle/lifecycle_listener
+-- Set runtime path of "/home/colbren/ground-station/install/lifecycle/lib/lifecycle/lifecycle_listener" to ""
+-- Installing: /home/colbren/ground-station/install/lifecycle/lib/lifecycle/lifecycle_service_client
+-- Set runtime path of "/home/colbren/ground-station/install/lifecycle/lib/lifecycle/lifecycle_service_client" to ""
+-- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle//launch
+-- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle//launch/lifecycle_demo.launch.py
+-- Installing: /home/colbren/ground-station/install/lifecycle/share/ament_index/resource_index/package_run_dependencies/lifecycle
+-- Installing: /home/colbren/ground-station/install/lifecycle/share/ament_index/resource_index/parent_prefix_path/lifecycle
+-- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/environment/ament_prefix_path.sh
+-- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/environment/ament_prefix_path.dsv
+-- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/environment/path.sh
+-- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/environment/path.dsv
+-- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/local_setup.bash
+-- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/local_setup.sh
+-- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/local_setup.zsh
+-- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/local_setup.dsv
+-- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/package.dsv
+-- Installing: /home/colbren/ground-station/install/lifecycle/share/ament_index/resource_index/packages/lifecycle
+-- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/cmake/lifecycleConfig.cmake
+-- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/cmake/lifecycleConfig-version.cmake
+-- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/package.xml

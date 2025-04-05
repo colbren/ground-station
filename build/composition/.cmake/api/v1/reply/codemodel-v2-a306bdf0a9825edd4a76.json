@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-bb4ba10a2ce4273c6428.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "composition",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "client_component::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-client_component-200475e87230859fb7c3.json",
+					"name" : "client_component",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "composition_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-composition_uninstall-1c0bb06624ed24d3cd13.json",
+					"name" : "composition_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dlopen_composition::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dlopen_composition-512efe05cf3332b969af.json",
+					"name" : "dlopen_composition",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "linktime_composition::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linktime_composition-1296413658dbada6651b.json",
+					"name" : "linktime_composition",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "listener_component::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-listener_component-dc6cf909e3b3b8728d3f.json",
+					"name" : "listener_component",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "manual_composition::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-manual_composition-83508bacff895497e412.json",
+					"name" : "manual_composition",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "node_like_listener_component::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-node_like_listener_component-124eef2700e3c397a109.json",
+					"name" : "node_like_listener_component",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "server_component::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-server_component-4406eab4325ff266b71e.json",
+					"name" : "server_component",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "talker_component::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-talker_component-86ac1dcb0ef43b345f89.json",
+					"name" : "talker_component",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-3b5eee7b909ef8b632c4.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/colbren/ground-station/build/composition",
+		"source" : "/home/colbren/ground-station/src/demos/composition"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

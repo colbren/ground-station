@@ -1,0 +1,260 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-f8181f4145512005c715.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				},
+				{
+					"build" : "logging_demo__py",
+					"jsonFile" : "directory-logging_demo__py-5b7eda19e96dedc6bb7d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/colbren/ground-station/build/logging_demo/logging_demo__py",
+					"targetIndexes" : 
+					[
+						6
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "logging_demo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_logging_demo_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_logging_demo_egg-5540b4eab219c2e1085a.json",
+					"name" : "ament_cmake_python_build_logging_demo_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_logging_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_logging_demo-8366994424c930468678.json",
+					"name" : "ament_cmake_python_copy_logging_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "logger_config_component::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-logger_config_component-c08b83fe3b16d0204cbf.json",
+					"name" : "logger_config_component",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "logger_usage_component::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-logger_usage_component-209d1b1751d201c691ba.json",
+					"name" : "logger_usage_component",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "logging_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-logging_demo-8f55705d66dcb53332a1.json",
+					"name" : "logging_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "logging_demo__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-logging_demo__cpp-b51b9b707ee7ad4cc242.json",
+					"name" : "logging_demo__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "logging_demo__py::@abc6d3ad17bdc1152555",
+					"jsonFile" : "target-logging_demo__py-95c336672b345006eb08.json",
+					"name" : "logging_demo__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "logging_demo__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-logging_demo__rosidl_generator_c-8ed0fa5cf33ce995b224.json",
+					"name" : "logging_demo__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "logging_demo__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-logging_demo__rosidl_generator_py-ecdc1b6d1e6cf40c0a31.json",
+					"name" : "logging_demo__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "logging_demo__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-logging_demo__rosidl_typesupport_c-07181064da49d0c8e6ae.json",
+					"name" : "logging_demo__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "logging_demo__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-logging_demo__rosidl_typesupport_c__pyext-0fb359fced4e5194917f.json",
+					"name" : "logging_demo__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "logging_demo__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-logging_demo__rosidl_typesupport_cpp-b6ff97405fb937fa448b.json",
+					"name" : "logging_demo__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "logging_demo__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-logging_demo__rosidl_typesupport_fastrtps_c-e8218233bb6e16464d99.json",
+					"name" : "logging_demo__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "logging_demo__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-logging_demo__rosidl_typesupport_fastrtps_c__pyext-63746d8ec032f0a91de6.json",
+					"name" : "logging_demo__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "logging_demo__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-logging_demo__rosidl_typesupport_fastrtps_cpp-effc78c8a2177f000142.json",
+					"name" : "logging_demo__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "logging_demo__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-logging_demo__rosidl_typesupport_introspection_c-2f6e3bbe5ac5e26c0c41.json",
+					"name" : "logging_demo__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "logging_demo__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-logging_demo__rosidl_typesupport_introspection_c__pyext-a75fe4cb4b722332d71c.json",
+					"name" : "logging_demo__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "logging_demo__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-logging_demo__rosidl_typesupport_introspection_cpp-6cd589d7bd53a055998d.json",
+					"name" : "logging_demo__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "logging_demo_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-logging_demo_main-4022eb2ad856163bccdc.json",
+					"name" : "logging_demo_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "logging_demo_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-logging_demo_uninstall-3c6b2dc9181030f02b4a.json",
+					"name" : "logging_demo_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-091bfc4cbf08000690fc.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/colbren/ground-station/build/logging_demo",
+		"source" : "/home/colbren/ground-station/src/demos/logging_demo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,24 @@
+[1.055s] Invoking command in '/home/colbren/ground-station/build/topic_statistics_demo': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/topic_statistics_demo -- -j16 -l16
+[1.100s] [35m[1mConsolidate compiler generated dependencies of target display_topic_statistics[0m
+[1.181s] [100%] Built target display_topic_statistics
+[1.303s] Invoked command in '/home/colbren/ground-station/build/topic_statistics_demo' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/topic_statistics_demo -- -j16 -l16
+[1.304s] Invoking command in '/home/colbren/ground-station/build/topic_statistics_demo': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/topic_statistics_demo
+[1.407s] -- Install configuration: ""
+[1.407s] -- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/lib/topic_statistics_demo/display_topic_statistics
+[1.407s] -- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/ament_index/resource_index/package_run_dependencies/topic_statistics_demo
+[1.407s] -- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/ament_index/resource_index/parent_prefix_path/topic_statistics_demo
+[1.407s] -- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/environment/ament_prefix_path.sh
+[1.407s] -- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/environment/ament_prefix_path.dsv
+[1.407s] -- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/environment/path.sh
+[1.407s] -- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/environment/path.dsv
+[1.407s] -- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/local_setup.bash
+[1.408s] -- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/local_setup.sh
+[1.408s] -- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/local_setup.zsh
+[1.408s] -- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/local_setup.dsv
+[1.408s] -- Installing: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/package.dsv
+[1.408s] -- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/ament_index/resource_index/packages/topic_statistics_demo
+[1.408s] -- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.408s] -- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/cmake/topic_statistics_demoConfig.cmake
+[1.408s] -- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/cmake/topic_statistics_demoConfig-version.cmake
+[1.408s] -- Up-to-date: /home/colbren/ground-station/install/topic_statistics_demo/share/topic_statistics_demo/package.xml
+[1.719s] Invoked command in '/home/colbren/ground-station/build/topic_statistics_demo' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/topic_statistics_demo

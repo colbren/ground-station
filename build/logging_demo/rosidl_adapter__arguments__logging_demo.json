@@ -1,0 +1,6 @@
+{
+  "package_name": "logging_demo",
+  "non_idl_tuples": [
+    "/home/colbren/ground-station/src/demos/logging_demo:srv/ConfigLogger.srv"
+  ]
+}

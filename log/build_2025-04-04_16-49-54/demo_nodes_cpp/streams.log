@@ -1,0 +1,113 @@
+[0.094s] Invoking command in '/home/colbren/ground-station/build/demo_nodes_cpp': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/demo_nodes_cpp -- -j16 -l16
+[1.118s] [35m[1mConsolidate compiler generated dependencies of target add_two_ints_client[0m
+[1.118s] [35m[1mConsolidate compiler generated dependencies of target allocator_tutorial[0m
+[1.118s] [35m[1mConsolidate compiler generated dependencies of target parameter_events[0m
+[1.118s] [35m[1mConsolidate compiler generated dependencies of target list_parameters_async[0m
+[1.118s] [35m[1mConsolidate compiler generated dependencies of target timers_library[0m
+[1.119s] [35m[1mConsolidate compiler generated dependencies of target parameter_event_handler[0m
+[1.119s] [35m[1mConsolidate compiler generated dependencies of target add_two_ints_server[0m
+[1.120s] [35m[1mConsolidate compiler generated dependencies of target one_off_timer[0m
+[1.120s] [35m[1mConsolidate compiler generated dependencies of target list_parameters[0m
+[1.120s] [35m[1mConsolidate compiler generated dependencies of target services_library[0m
+[1.120s] [35m[1mConsolidate compiler generated dependencies of target add_two_ints_client_async[0m
+[1.120s] [35m[1mConsolidate compiler generated dependencies of target set_and_get_parameters_async[0m
+[1.120s] [35m[1mConsolidate compiler generated dependencies of target reuse_timer[0m
+[1.120s] [35m[1mConsolidate compiler generated dependencies of target parameter_blackboard[0m
+[1.120s] [35m[1mConsolidate compiler generated dependencies of target topics_library[0m
+[1.120s] [35m[1mConsolidate compiler generated dependencies of target parameters_library[0m
+[1.120s] [  4%] Built target timers_library
+[1.120s] [  7%] Built target parameter_event_handler
+[1.120s] [ 10%] Built target add_two_ints_server
+[1.120s] [ 16%] Built target list_parameters_async
+[1.120s] [ 16%] Built target add_two_ints_client
+[1.120s] [ 19%] Built target one_off_timer
+[1.120s] [ 22%] Built target parameter_events
+[1.120s] [ 25%] Built target allocator_tutorial
+[1.120s] [ 27%] Built target add_two_ints_client_async
+[1.120s] [ 30%] Built target set_and_get_parameters_async
+[1.120s] [ 33%] Built target parameter_blackboard
+[1.120s] [ 39%] Built target services_library
+[1.120s] [ 42%] Built target list_parameters
+[1.121s] [35m[1mConsolidate compiler generated dependencies of target talker_serialized_message[0m
+[1.121s] [35m[1mConsolidate compiler generated dependencies of target parameter_events_async[0m
+[1.121s] [35m[1mConsolidate compiler generated dependencies of target even_parameters_node[0m
+[1.121s] [35m[1mConsolidate compiler generated dependencies of target set_and_get_parameters[0m
+[1.121s] [ 45%] Built target reuse_timer
+[1.121s] [35m[1mConsolidate compiler generated dependencies of target talker[0m
+[1.121s] [35m[1mConsolidate compiler generated dependencies of target listener[0m
+[1.121s] [35m[1mConsolidate compiler generated dependencies of target content_filtering_publisher[0m
+[1.121s] [35m[1mConsolidate compiler generated dependencies of target talker_loaned_message[0m
+[1.121s] [35m[1mConsolidate compiler generated dependencies of target listener_best_effort[0m
+[1.121s] [35m[1mConsolidate compiler generated dependencies of target listener_serialized_message[0m
+[1.121s] [35m[1mConsolidate compiler generated dependencies of target content_filtering_subscriber[0m
+[1.121s] [ 48%] Built target talker_serialized_message
+[1.121s] [ 57%] Built target parameters_library
+[1.121s] [ 60%] Built target parameter_events_async
+[1.121s] [ 63%] Built target talker_loaned_message
+[1.121s] [ 66%] Built target even_parameters_node
+[1.121s] [ 69%] Built target set_and_get_parameters
+[1.121s] [ 82%] Built target topics_library
+[1.121s] [ 85%] Built target content_filtering_publisher
+[1.121s] [ 88%] Built target talker
+[1.121s] [ 91%] Built target listener_serialized_message
+[1.121s] [ 94%] Built target listener
+[1.122s] [ 97%] Built target listener_best_effort
+[1.122s] [100%] Built target content_filtering_subscriber
+[1.140s] Invoked command in '/home/colbren/ground-station/build/demo_nodes_cpp' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/demo_nodes_cpp -- -j16 -l16
+[1.142s] Invoking command in '/home/colbren/ground-station/build/demo_nodes_cpp': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/demo_nodes_cpp
+[1.177s] -- Install configuration: ""
+[1.177s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/allocator_tutorial
+[1.177s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/add_two_ints_client
+[1.177s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/list_parameters_async
+[1.177s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/parameter_events
+[1.178s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/parameter_event_handler
+[1.178s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/set_and_get_parameters_async
+[1.178s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/one_off_timer
+[1.178s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/reuse_timer
+[1.178s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/add_two_ints_server
+[1.183s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/add_two_ints_client_async
+[1.189s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/list_parameters
+[1.195s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/parameter_blackboard
+[1.201s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/set_and_get_parameters
+[1.210s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/parameter_events_async
+[1.213s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/even_parameters_node
+[1.215s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/content_filtering_publisher
+[1.219s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/content_filtering_subscriber
+[1.219s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/talker
+[1.222s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/talker_loaned_message
+[1.222s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/talker_serialized_message
+[1.223s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/listener
+[1.230s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/listener_serialized_message
+[1.232s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/demo_nodes_cpp/listener_best_effort
+[1.234s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/libtimers_library.so
+[1.234s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/libservices_library.so
+[1.234s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/libparameters_library.so
+[1.235s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/lib/libtopics_library.so
+[1.235s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch
+[1.235s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/services
+[1.235s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/services/add_two_ints_async.launch.py
+[1.235s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/services/add_two_ints.launch.py
+[1.235s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/services/add_two_ints_async.launch.xml
+[1.236s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/services/add_two_ints.launch.xml
+[1.236s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/topics
+[1.236s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/topics/talker_listener.launch.py
+[1.236s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/topics/talker_listener.launch.xml
+[1.236s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/topics/talker_listener_best_effort.launch.xml
+[1.236s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp//launch/topics/talker_listener_best_effort.launch.py
+[1.236s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/ament_index/resource_index/package_run_dependencies/demo_nodes_cpp
+[1.236s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/ament_index/resource_index/parent_prefix_path/demo_nodes_cpp
+[1.236s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/environment/ament_prefix_path.sh
+[1.237s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/environment/ament_prefix_path.dsv
+[1.237s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/environment/path.sh
+[1.237s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/environment/path.dsv
+[1.237s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/local_setup.bash
+[1.237s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/local_setup.sh
+[1.238s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/local_setup.zsh
+[1.238s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/local_setup.dsv
+[1.238s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/package.dsv
+[1.238s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/ament_index/resource_index/packages/demo_nodes_cpp
+[1.238s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/ament_index/resource_index/rclcpp_components/demo_nodes_cpp
+[1.238s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/cmake/demo_nodes_cppConfig.cmake
+[1.238s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/cmake/demo_nodes_cppConfig-version.cmake
+[1.238s] -- Up-to-date: /home/colbren/ground-station/install/demo_nodes_cpp/share/demo_nodes_cpp/package.xml
+[1.357s] Invoked command in '/home/colbren/ground-station/build/demo_nodes_cpp' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/demo_nodes_cpp

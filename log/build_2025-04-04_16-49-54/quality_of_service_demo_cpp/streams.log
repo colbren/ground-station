@@ -1,0 +1,61 @@
+[0.521s] Invoking command in '/home/colbren/ground-station/build/quality_of_service_demo_cpp': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/quality_of_service_demo_cpp -- -j16 -l16
+[1.090s] [35m[1mConsolidate compiler generated dependencies of target message_lost_talker[0m
+[1.090s] [35m[1mConsolidate compiler generated dependencies of target liveliness[0m
+[1.090s] [35m[1mConsolidate compiler generated dependencies of target message_lost[0m
+[1.090s] [35m[1mConsolidate compiler generated dependencies of target deadline[0m
+[1.090s] [35m[1mConsolidate compiler generated dependencies of target interactive_subscriber[0m
+[1.090s] [35m[1mConsolidate compiler generated dependencies of target incompatible_qos[0m
+[1.090s] [35m[1mConsolidate compiler generated dependencies of target qos_overrides_talker[0m
+[1.090s] [35m[1mConsolidate compiler generated dependencies of target message_lost_listener[0m
+[1.090s] [35m[1mConsolidate compiler generated dependencies of target qos_overrides[0m
+[1.090s] [35m[1mConsolidate compiler generated dependencies of target interactive_publisher[0m
+[1.090s] [35m[1mConsolidate compiler generated dependencies of target qos_overrides_listener[0m
+[1.090s] [35m[1mConsolidate compiler generated dependencies of target lifespan[0m
+[1.091s] [  5%] Built target message_lost_talker
+[1.091s] [ 10%] Built target qos_overrides_listener
+[1.091s] [ 21%] Built target deadline
+[1.091s] [ 31%] Built target liveliness
+[1.091s] [ 36%] Built target qos_overrides_talker
+[1.091s] [ 47%] Built target incompatible_qos
+[1.091s] [ 52%] Built target message_lost_listener
+[1.091s] [ 63%] Built target interactive_subscriber
+[1.091s] [ 73%] Built target interactive_publisher
+[1.091s] [ 81%] Built target qos_overrides
+[1.091s] [ 89%] Built target message_lost
+[1.091s] [100%] Built target lifespan
+[1.119s] Invoked command in '/home/colbren/ground-station/build/quality_of_service_demo_cpp' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/quality_of_service_demo_cpp -- -j16 -l16
+[1.121s] Invoking command in '/home/colbren/ground-station/build/quality_of_service_demo_cpp': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/quality_of_service_demo_cpp
+[1.167s] -- Install configuration: ""
+[1.167s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/lib/quality_of_service_demo_cpp/liveliness
+[1.168s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/lib/quality_of_service_demo_cpp/lifespan
+[1.168s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/lib/quality_of_service_demo_cpp/deadline
+[1.178s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/lib/quality_of_service_demo_cpp/interactive_publisher
+[1.182s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/lib/quality_of_service_demo_cpp/interactive_subscriber
+[1.184s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/lib/quality_of_service_demo_cpp/incompatible_qos
+[1.185s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/lib/quality_of_service_demo_cpp/message_lost_listener
+[1.188s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/lib/quality_of_service_demo_cpp/message_lost_talker
+[1.188s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/lib/quality_of_service_demo_cpp/qos_overrides_listener
+[1.189s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/lib/quality_of_service_demo_cpp/qos_overrides_talker
+[1.196s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/lib/libmessage_lost.so
+[1.197s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/lib/libqos_overrides.so
+[1.199s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/share/quality_of_service_demo_cpp/params_file
+[1.199s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/share/quality_of_service_demo_cpp/params_file/example_qos_overrides_with_wildcard.yaml
+[1.199s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/share/quality_of_service_demo_cpp/params_file/example_qos_overrides.yaml
+[1.199s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/share/ament_index/resource_index/package_run_dependencies/quality_of_service_demo_cpp
+[1.199s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/share/ament_index/resource_index/parent_prefix_path/quality_of_service_demo_cpp
+[1.199s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/share/quality_of_service_demo_cpp/environment/ament_prefix_path.sh
+[1.199s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/share/quality_of_service_demo_cpp/environment/ament_prefix_path.dsv
+[1.199s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/share/quality_of_service_demo_cpp/environment/path.sh
+[1.200s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/share/quality_of_service_demo_cpp/environment/path.dsv
+[1.200s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/share/quality_of_service_demo_cpp/local_setup.bash
+[1.200s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/share/quality_of_service_demo_cpp/local_setup.sh
+[1.200s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/share/quality_of_service_demo_cpp/local_setup.zsh
+[1.200s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/share/quality_of_service_demo_cpp/local_setup.dsv
+[1.200s] -- Installing: /home/colbren/ground-station/install/quality_of_service_demo_cpp/share/quality_of_service_demo_cpp/package.dsv
+[1.200s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/share/ament_index/resource_index/packages/quality_of_service_demo_cpp
+[1.200s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/share/ament_index/resource_index/rclcpp_components/quality_of_service_demo_cpp
+[1.200s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/share/quality_of_service_demo_cpp/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.200s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/share/quality_of_service_demo_cpp/cmake/quality_of_service_demo_cppConfig.cmake
+[1.200s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/share/quality_of_service_demo_cpp/cmake/quality_of_service_demo_cppConfig-version.cmake
+[1.200s] -- Up-to-date: /home/colbren/ground-station/install/quality_of_service_demo_cpp/share/quality_of_service_demo_cpp/package.xml
+[1.343s] Invoked command in '/home/colbren/ground-station/build/quality_of_service_demo_cpp' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/quality_of_service_demo_cpp

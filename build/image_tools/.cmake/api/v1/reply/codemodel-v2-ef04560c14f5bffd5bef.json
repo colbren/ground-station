@@ -1,0 +1,97 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-d41026ca17e45d96b80c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "image_tools",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cam2image::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cam2image-56932cb988ca00c869ca.json",
+					"name" : "cam2image",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "image_tools::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-image_tools-9e678c9861e6b186ff36.json",
+					"name" : "image_tools",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "image_tools_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-image_tools_uninstall-7b5056afb3f49960a43a.json",
+					"name" : "image_tools_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "showimage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-showimage-9c68c1392ef58f00c0a4.json",
+					"name" : "showimage",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-54ccaed0a3d6dfeaaa02.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/colbren/ground-station/build/image_tools",
+		"source" : "/home/colbren/ground-station/src/demos/image_tools"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

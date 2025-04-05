@@ -1,0 +1,97 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-dc917861f20fc98953e8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "action_tutorials_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "action_tutorials::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-action_tutorials-f8a8f987ed243a422ebd.json",
+					"name" : "action_tutorials",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "action_tutorials_cpp_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-action_tutorials_cpp_uninstall-babb5d0b272c4313f32a.json",
+					"name" : "action_tutorials_cpp_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fibonacci_action_client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fibonacci_action_client-1dec6b0bb8aec008eed8.json",
+					"name" : "fibonacci_action_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fibonacci_action_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fibonacci_action_server-3c0cdadec42a1673bb80.json",
+					"name" : "fibonacci_action_server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-08abb1d69cfac0ad4c63.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/colbren/ground-station/build/action_tutorials_cpp",
+		"source" : "/home/colbren/ground-station/src/demos/action_tutorials/action_tutorials_cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

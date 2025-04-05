@@ -1,0 +1,49 @@
+[0.094s] Invoking command in '/home/colbren/ground-station/build/composition': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/composition -- -j16 -l16
+[1.120s] [35m[1mConsolidate compiler generated dependencies of target listener_component[0m
+[1.120s] [35m[1mConsolidate compiler generated dependencies of target talker_component[0m
+[1.120s] [35m[1mConsolidate compiler generated dependencies of target node_like_listener_component[0m
+[1.121s] [35m[1mConsolidate compiler generated dependencies of target dlopen_composition[0m
+[1.121s] [35m[1mConsolidate compiler generated dependencies of target client_component[0m
+[1.121s] [35m[1mConsolidate compiler generated dependencies of target server_component[0m
+[1.121s] [ 12%] Built target node_like_listener_component
+[1.121s] [ 25%] Built target client_component
+[1.121s] [ 37%] Built target listener_component
+[1.121s] [ 50%] Built target dlopen_composition
+[1.121s] [ 62%] Built target server_component
+[1.121s] [ 75%] Built target talker_component
+[1.121s] [35m[1mConsolidate compiler generated dependencies of target manual_composition[0m
+[1.121s] [35m[1mConsolidate compiler generated dependencies of target linktime_composition[0m
+[1.121s] [ 87%] Built target manual_composition
+[1.121s] [100%] Built target linktime_composition
+[1.138s] Invoked command in '/home/colbren/ground-station/build/composition' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/composition -- -j16 -l16
+[1.140s] Invoking command in '/home/colbren/ground-station/build/composition': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/composition
+[1.178s] -- Install configuration: ""
+[1.178s] -- Up-to-date: /home/colbren/ground-station/install/composition/share/composition/environment/library_path.sh
+[1.178s] -- Up-to-date: /home/colbren/ground-station/install/composition/share/composition/environment/library_path.dsv
+[1.178s] -- Up-to-date: /home/colbren/ground-station/install/composition/lib/libtalker_component.so
+[1.178s] -- Up-to-date: /home/colbren/ground-station/install/composition/lib/liblistener_component.so
+[1.178s] -- Up-to-date: /home/colbren/ground-station/install/composition/lib/libnode_like_listener_component.so
+[1.178s] -- Up-to-date: /home/colbren/ground-station/install/composition/lib/libserver_component.so
+[1.178s] -- Up-to-date: /home/colbren/ground-station/install/composition/lib/libclient_component.so
+[1.178s] -- Up-to-date: /home/colbren/ground-station/install/composition/lib/composition/manual_composition
+[1.179s] -- Up-to-date: /home/colbren/ground-station/install/composition/lib/composition/linktime_composition
+[1.179s] -- Up-to-date: /home/colbren/ground-station/install/composition/lib/composition/dlopen_composition
+[1.179s] -- Up-to-date: /home/colbren/ground-station/install/composition/share/composition/launch
+[1.179s] -- Up-to-date: /home/colbren/ground-station/install/composition/share/composition/launch/composition_demo.launch.py
+[1.179s] -- Up-to-date: /home/colbren/ground-station/install/composition/share/ament_index/resource_index/package_run_dependencies/composition
+[1.179s] -- Up-to-date: /home/colbren/ground-station/install/composition/share/ament_index/resource_index/parent_prefix_path/composition
+[1.179s] -- Up-to-date: /home/colbren/ground-station/install/composition/share/composition/environment/ament_prefix_path.sh
+[1.179s] -- Up-to-date: /home/colbren/ground-station/install/composition/share/composition/environment/ament_prefix_path.dsv
+[1.179s] -- Up-to-date: /home/colbren/ground-station/install/composition/share/composition/environment/path.sh
+[1.179s] -- Up-to-date: /home/colbren/ground-station/install/composition/share/composition/environment/path.dsv
+[1.179s] -- Up-to-date: /home/colbren/ground-station/install/composition/share/composition/local_setup.bash
+[1.179s] -- Up-to-date: /home/colbren/ground-station/install/composition/share/composition/local_setup.sh
+[1.180s] -- Up-to-date: /home/colbren/ground-station/install/composition/share/composition/local_setup.zsh
+[1.180s] -- Up-to-date: /home/colbren/ground-station/install/composition/share/composition/local_setup.dsv
+[1.180s] -- Installing: /home/colbren/ground-station/install/composition/share/composition/package.dsv
+[1.180s] -- Up-to-date: /home/colbren/ground-station/install/composition/share/ament_index/resource_index/packages/composition
+[1.180s] -- Up-to-date: /home/colbren/ground-station/install/composition/share/ament_index/resource_index/rclcpp_components/composition
+[1.180s] -- Up-to-date: /home/colbren/ground-station/install/composition/share/composition/cmake/compositionConfig.cmake
+[1.180s] -- Up-to-date: /home/colbren/ground-station/install/composition/share/composition/cmake/compositionConfig-version.cmake
+[1.180s] -- Up-to-date: /home/colbren/ground-station/install/composition/share/composition/package.xml
+[1.286s] Invoked command in '/home/colbren/ground-station/build/composition' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/composition

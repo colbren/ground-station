@@ -1,0 +1,28 @@
+[2.049s] Invoking command in '/home/colbren/ground-station/src/demos/demo_nodes_py': PYTHONPATH=/home/colbren/ground-station/build/demo_nodes_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/colbren/ground-station/install/demo_nodes_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/demo_nodes_py build --build-base /home/colbren/ground-station/build/demo_nodes_py/build install --record /home/colbren/ground-station/build/demo_nodes_py/install.log --single-version-externally-managed install_data
+[14.519s] running egg_info
+[14.520s] writing ../../../build/demo_nodes_py/demo_nodes_py.egg-info/PKG-INFO
+[14.523s] writing dependency_links to ../../../build/demo_nodes_py/demo_nodes_py.egg-info/dependency_links.txt
+[14.523s] writing entry points to ../../../build/demo_nodes_py/demo_nodes_py.egg-info/entry_points.txt
+[14.523s] writing requirements to ../../../build/demo_nodes_py/demo_nodes_py.egg-info/requires.txt
+[14.524s] writing top-level names to ../../../build/demo_nodes_py/demo_nodes_py.egg-info/top_level.txt
+[14.524s] reading manifest file '../../../build/demo_nodes_py/demo_nodes_py.egg-info/SOURCES.txt'
+[14.524s] writing manifest file '../../../build/demo_nodes_py/demo_nodes_py.egg-info/SOURCES.txt'
+[14.524s] running build
+[14.524s] running build_py
+[14.524s] running install
+[14.525s] running install_lib
+[14.525s] running install_data
+[14.525s] running install_egg_info
+[14.525s] removing '/home/colbren/ground-station/install/demo_nodes_py/lib/python3.10/site-packages/demo_nodes_py-0.20.5-py3.10.egg-info' (and everything under it)
+[14.525s] Copying ../../../build/demo_nodes_py/demo_nodes_py.egg-info to /home/colbren/ground-station/install/demo_nodes_py/lib/python3.10/site-packages/demo_nodes_py-0.20.5-py3.10.egg-info
+[14.526s] running install_scripts
+[14.526s] Installing add_two_ints_client script to /home/colbren/ground-station/install/demo_nodes_py/lib/demo_nodes_py
+[14.526s] Installing add_two_ints_client_async script to /home/colbren/ground-station/install/demo_nodes_py/lib/demo_nodes_py
+[14.527s] Installing add_two_ints_server script to /home/colbren/ground-station/install/demo_nodes_py/lib/demo_nodes_py
+[14.527s] Installing listener script to /home/colbren/ground-station/install/demo_nodes_py/lib/demo_nodes_py
+[14.527s] Installing listener_qos script to /home/colbren/ground-station/install/demo_nodes_py/lib/demo_nodes_py
+[14.527s] Installing listener_serialized script to /home/colbren/ground-station/install/demo_nodes_py/lib/demo_nodes_py
+[14.527s] Installing talker script to /home/colbren/ground-station/install/demo_nodes_py/lib/demo_nodes_py
+[14.527s] Installing talker_qos script to /home/colbren/ground-station/install/demo_nodes_py/lib/demo_nodes_py
+[14.527s] writing list of installed files to '/home/colbren/ground-station/build/demo_nodes_py/install.log'
+[14.562s] Invoked command in '/home/colbren/ground-station/src/demos/demo_nodes_py' returned '0': PYTHONPATH=/home/colbren/ground-station/build/demo_nodes_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/colbren/ground-station/install/demo_nodes_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/demo_nodes_py build --build-base /home/colbren/ground-station/build/demo_nodes_py/build install --record /home/colbren/ground-station/build/demo_nodes_py/install.log --single-version-externally-managed install_data

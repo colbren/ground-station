@@ -1,0 +1,31 @@
+[0.071s] Invoking command in '/home/colbren/ground-station/build/demo_nodes_cpp_native': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/demo_nodes_cpp_native -- -j16 -l16
+[1.291s] [ 25%] [32mBuilding CXX object CMakeFiles/talker_native.dir/src/talker.cpp.o[0m
+[9.910s] [ 50%] [32m[1mLinking CXX shared library libtalker_native.so[0m
+[10.948s] [ 50%] Built target talker_native
+[10.987s] [ 75%] [32mBuilding CXX object CMakeFiles/talker.dir/rclcpp_components/node_main_talker.cpp.o[0m
+[16.216s] [100%] [32m[1mLinking CXX executable talker[0m
+[16.462s] [100%] Built target talker
+[16.487s] Invoked command in '/home/colbren/ground-station/build/demo_nodes_cpp_native' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/demo_nodes_cpp_native -- -j16 -l16
+[16.490s] Invoking command in '/home/colbren/ground-station/build/demo_nodes_cpp_native': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/demo_nodes_cpp_native
+[17.387s] -- Install configuration: ""
+[17.387s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/lib/demo_nodes_cpp_native/talker
+[17.387s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp_native/lib/demo_nodes_cpp_native/talker" to ""
+[17.387s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/lib/libtalker_native.so
+[17.388s] -- Set runtime path of "/home/colbren/ground-station/install/demo_nodes_cpp_native/lib/libtalker_native.so" to ""
+[17.392s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/ament_index/resource_index/package_run_dependencies/demo_nodes_cpp_native
+[17.392s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/ament_index/resource_index/parent_prefix_path/demo_nodes_cpp_native
+[17.392s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/environment/ament_prefix_path.sh
+[17.393s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/environment/ament_prefix_path.dsv
+[17.393s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/environment/path.sh
+[17.393s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/environment/path.dsv
+[17.393s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/local_setup.bash
+[17.393s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/local_setup.sh
+[17.393s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/local_setup.zsh
+[17.394s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/local_setup.dsv
+[17.394s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/package.dsv
+[17.397s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/ament_index/resource_index/packages/demo_nodes_cpp_native
+[17.397s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/ament_index/resource_index/rclcpp_components/demo_nodes_cpp_native
+[17.397s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/cmake/demo_nodes_cpp_nativeConfig.cmake
+[17.397s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/cmake/demo_nodes_cpp_nativeConfig-version.cmake
+[17.398s] -- Installing: /home/colbren/ground-station/install/demo_nodes_cpp_native/share/demo_nodes_cpp_native/package.xml
+[17.405s] Invoked command in '/home/colbren/ground-station/build/demo_nodes_cpp_native' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/demo_nodes_cpp_native

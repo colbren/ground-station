@@ -1,0 +1,86 @@
+[0.040s] Invoking command in '/home/colbren/ground-station/build/action_tutorials_cpp': AMENT_PREFIX_PATH=/home/colbren/ground-station/install/action_tutorials_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/colbren/ground-station/install/action_tutorials_interfaces:/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble LD_LIBRARY_PATH=/home/colbren/ground-station/install/action_tutorials_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/colbren/ground-station/install/action_tutorials_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/colbren/ground-station/src/demos/action_tutorials/action_tutorials_cpp -DCMAKE_INSTALL_PREFIX=/home/colbren/ground-station/install/action_tutorials_cpp
+[1.663s] -- The C compiler identification is GNU 11.4.0
+[1.664s] -- The CXX compiler identification is GNU 11.4.0
+[1.664s] -- Detecting C compiler ABI info
+[1.664s] -- Detecting C compiler ABI info - done
+[1.664s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.664s] -- Detecting C compile features
+[1.664s] -- Detecting C compile features - done
+[1.664s] -- Detecting CXX compiler ABI info
+[1.664s] -- Detecting CXX compiler ABI info - done
+[1.664s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.664s] -- Detecting CXX compile features
+[1.665s] -- Detecting CXX compile features - done
+[1.665s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.665s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.665s] -- Found action_tutorials_interfaces: 0.20.5 (/home/colbren/ground-station/install/action_tutorials_interfaces/share/action_tutorials_interfaces/cmake)
+[1.665s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.665s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.665s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.665s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.665s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.665s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[1.665s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.665s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.825s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.868s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.920s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.931s] -- Looking for pthread.h
+[2.031s] -- Looking for pthread.h - found
+[2.031s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.150s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.150s] -- Found Threads: TRUE  
+[2.247s] -- Found rclcpp_action: 16.0.11 (/opt/ros/humble/share/rclcpp_action/cmake)
+[2.262s] -- Found rclcpp_components: 16.0.11 (/opt/ros/humble/share/rclcpp_components/cmake)
+[2.324s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.458s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.460s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.461s] -- Configured cppcheck include dirs: /home/colbren/ground-station/src/demos/action_tutorials/action_tutorials_cpp/include
+[2.461s] -- Configured cppcheck exclude dirs and/or files: 
+[2.462s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.463s] -- Configured cpplint exclude dirs and/or files: 
+[2.464s] -- Added test 'lint_cmake' to check CMake code style
+[2.466s] -- Added test 'uncrustify' to check C / C++ code style
+[2.466s] -- Configured uncrustify additional arguments: 
+[2.467s] -- Added test 'xmllint' to check XML markup files
+[2.469s] -- Configuring done
+[2.502s] -- Generating done
+[2.515s] -- Build files have been written to: /home/colbren/ground-station/build/action_tutorials_cpp
+[2.554s] Invoked command in '/home/colbren/ground-station/build/action_tutorials_cpp' returned '0': AMENT_PREFIX_PATH=/home/colbren/ground-station/install/action_tutorials_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/colbren/ground-station/install/action_tutorials_interfaces:/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble LD_LIBRARY_PATH=/home/colbren/ground-station/install/action_tutorials_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/colbren/ground-station/install/action_tutorials_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/colbren/ground-station/src/demos/action_tutorials/action_tutorials_cpp -DCMAKE_INSTALL_PREFIX=/home/colbren/ground-station/install/action_tutorials_cpp
+[2.578s] Invoking command in '/home/colbren/ground-station/build/action_tutorials_cpp': AMENT_PREFIX_PATH=/home/colbren/ground-station/install/action_tutorials_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/colbren/ground-station/install/action_tutorials_interfaces:/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble LD_LIBRARY_PATH=/home/colbren/ground-station/install/action_tutorials_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/colbren/ground-station/install/action_tutorials_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/colbren/ground-station/build/action_tutorials_cpp -- -j16 -l16
+[2.636s] [ 14%] [32mBuilding CXX object CMakeFiles/action_tutorials.dir/src/fibonacci_action_client.cpp.o[0m
+[8.750s] [ 28%] [32mBuilding CXX object CMakeFiles/action_tutorials.dir/src/fibonacci_action_server.cpp.o[0m
+[13.625s] [ 42%] [32m[1mLinking CXX shared library libaction_tutorials.so[0m
+[13.920s] [ 42%] Built target action_tutorials
+[13.943s] [ 57%] [32mBuilding CXX object CMakeFiles/fibonacci_action_server.dir/rclcpp_components/node_main_fibonacci_action_server.cpp.o[0m
+[17.454s] [ 71%] [32m[1mLinking CXX executable fibonacci_action_server[0m
+[17.593s] [ 71%] Built target fibonacci_action_server
+[17.622s] [ 85%] [32mBuilding CXX object CMakeFiles/fibonacci_action_client.dir/rclcpp_components/node_main_fibonacci_action_client.cpp.o[0m
+[20.987s] [100%] [32m[1mLinking CXX executable fibonacci_action_client[0m
+[21.172s] [100%] Built target fibonacci_action_client
+[21.187s] Invoked command in '/home/colbren/ground-station/build/action_tutorials_cpp' returned '0': AMENT_PREFIX_PATH=/home/colbren/ground-station/install/action_tutorials_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/colbren/ground-station/install/action_tutorials_interfaces:/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble LD_LIBRARY_PATH=/home/colbren/ground-station/install/action_tutorials_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/colbren/ground-station/install/action_tutorials_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/colbren/ground-station/build/action_tutorials_cpp -- -j16 -l16
+[21.190s] Invoking command in '/home/colbren/ground-station/build/action_tutorials_cpp': AMENT_PREFIX_PATH=/home/colbren/ground-station/install/action_tutorials_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/colbren/ground-station/install/action_tutorials_interfaces:/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble LD_LIBRARY_PATH=/home/colbren/ground-station/install/action_tutorials_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/colbren/ground-station/install/action_tutorials_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/colbren/ground-station/build/action_tutorials_cpp
+[21.199s] -- Install configuration: ""
+[21.199s] -- Installing: /home/colbren/ground-station/install/action_tutorials_cpp/lib/action_tutorials_cpp/fibonacci_action_client
+[21.199s] -- Set runtime path of "/home/colbren/ground-station/install/action_tutorials_cpp/lib/action_tutorials_cpp/fibonacci_action_client" to ""
+[21.199s] -- Installing: /home/colbren/ground-station/install/action_tutorials_cpp/lib/action_tutorials_cpp/fibonacci_action_server
+[21.200s] -- Set runtime path of "/home/colbren/ground-station/install/action_tutorials_cpp/lib/action_tutorials_cpp/fibonacci_action_server" to ""
+[21.200s] -- Installing: /home/colbren/ground-station/install/action_tutorials_cpp/lib/libaction_tutorials.so
+[21.203s] -- Set runtime path of "/home/colbren/ground-station/install/action_tutorials_cpp/lib/libaction_tutorials.so" to ""
+[21.203s] -- Installing: /home/colbren/ground-station/install/action_tutorials_cpp/share/ament_index/resource_index/package_run_dependencies/action_tutorials_cpp
+[21.203s] -- Installing: /home/colbren/ground-station/install/action_tutorials_cpp/share/ament_index/resource_index/parent_prefix_path/action_tutorials_cpp
+[21.204s] -- Installing: /home/colbren/ground-station/install/action_tutorials_cpp/share/action_tutorials_cpp/environment/ament_prefix_path.sh
+[21.204s] -- Installing: /home/colbren/ground-station/install/action_tutorials_cpp/share/action_tutorials_cpp/environment/ament_prefix_path.dsv
+[21.204s] -- Installing: /home/colbren/ground-station/install/action_tutorials_cpp/share/action_tutorials_cpp/environment/path.sh
+[21.204s] -- Installing: /home/colbren/ground-station/install/action_tutorials_cpp/share/action_tutorials_cpp/environment/path.dsv
+[21.204s] -- Installing: /home/colbren/ground-station/install/action_tutorials_cpp/share/action_tutorials_cpp/local_setup.bash
+[21.204s] -- Installing: /home/colbren/ground-station/install/action_tutorials_cpp/share/action_tutorials_cpp/local_setup.sh
+[21.204s] -- Installing: /home/colbren/ground-station/install/action_tutorials_cpp/share/action_tutorials_cpp/local_setup.zsh
+[21.205s] -- Installing: /home/colbren/ground-station/install/action_tutorials_cpp/share/action_tutorials_cpp/local_setup.dsv
+[21.205s] -- Installing: /home/colbren/ground-station/install/action_tutorials_cpp/share/action_tutorials_cpp/package.dsv
+[21.205s] -- Installing: /home/colbren/ground-station/install/action_tutorials_cpp/share/ament_index/resource_index/packages/action_tutorials_cpp
+[21.205s] -- Installing: /home/colbren/ground-station/install/action_tutorials_cpp/share/ament_index/resource_index/rclcpp_components/action_tutorials_cpp
+[21.205s] -- Installing: /home/colbren/ground-station/install/action_tutorials_cpp/share/action_tutorials_cpp/cmake/action_tutorials_cppConfig.cmake
+[21.205s] -- Installing: /home/colbren/ground-station/install/action_tutorials_cpp/share/action_tutorials_cpp/cmake/action_tutorials_cppConfig-version.cmake
+[21.206s] -- Installing: /home/colbren/ground-station/install/action_tutorials_cpp/share/action_tutorials_cpp/package.xml
+[21.209s] Invoked command in '/home/colbren/ground-station/build/action_tutorials_cpp' returned '0': AMENT_PREFIX_PATH=/home/colbren/ground-station/install/action_tutorials_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/colbren/ground-station/install/action_tutorials_interfaces:/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble LD_LIBRARY_PATH=/home/colbren/ground-station/install/action_tutorials_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/colbren/ground-station/install/action_tutorials_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/colbren/ground-station/build/action_tutorials_cpp

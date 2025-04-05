@@ -1,0 +1,37 @@
+[0.078s] Invoking command in '/home/colbren/ground-station/build/lifecycle': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/lifecycle -- -j16 -l16
+[1.294s] [ 16%] [32mBuilding CXX object CMakeFiles/lifecycle_talker.dir/src/lifecycle_talker.cpp.o[0m
+[6.934s] [ 33%] [32m[1mLinking CXX executable lifecycle_talker[0m
+[7.381s] [ 33%] Built target lifecycle_talker
+[7.435s] [ 50%] [32mBuilding CXX object CMakeFiles/lifecycle_service_client.dir/src/lifecycle_service_client.cpp.o[0m
+[15.109s] [ 66%] [32m[1mLinking CXX executable lifecycle_service_client[0m
+[15.571s] [ 66%] Built target lifecycle_service_client
+[15.621s] [ 83%] [32mBuilding CXX object CMakeFiles/lifecycle_listener.dir/src/lifecycle_listener.cpp.o[0m
+[29.416s] [100%] [32m[1mLinking CXX executable lifecycle_listener[0m
+[30.162s] [100%] Built target lifecycle_listener
+[30.181s] Invoked command in '/home/colbren/ground-station/build/lifecycle' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/lifecycle -- -j16 -l16
+[30.185s] Invoking command in '/home/colbren/ground-station/build/lifecycle': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/lifecycle
+[30.197s] -- Install configuration: ""
+[30.197s] -- Installing: /home/colbren/ground-station/install/lifecycle/lib/lifecycle/lifecycle_talker
+[30.199s] -- Set runtime path of "/home/colbren/ground-station/install/lifecycle/lib/lifecycle/lifecycle_talker" to ""
+[30.199s] -- Installing: /home/colbren/ground-station/install/lifecycle/lib/lifecycle/lifecycle_listener
+[30.209s] -- Set runtime path of "/home/colbren/ground-station/install/lifecycle/lib/lifecycle/lifecycle_listener" to ""
+[30.209s] -- Installing: /home/colbren/ground-station/install/lifecycle/lib/lifecycle/lifecycle_service_client
+[30.212s] -- Set runtime path of "/home/colbren/ground-station/install/lifecycle/lib/lifecycle/lifecycle_service_client" to ""
+[30.212s] -- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle//launch
+[30.212s] -- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle//launch/lifecycle_demo.launch.py
+[30.212s] -- Installing: /home/colbren/ground-station/install/lifecycle/share/ament_index/resource_index/package_run_dependencies/lifecycle
+[30.213s] -- Installing: /home/colbren/ground-station/install/lifecycle/share/ament_index/resource_index/parent_prefix_path/lifecycle
+[30.214s] -- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/environment/ament_prefix_path.sh
+[30.214s] -- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/environment/ament_prefix_path.dsv
+[30.214s] -- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/environment/path.sh
+[30.215s] -- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/environment/path.dsv
+[30.215s] -- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/local_setup.bash
+[30.216s] -- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/local_setup.sh
+[30.216s] -- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/local_setup.zsh
+[30.217s] -- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/local_setup.dsv
+[30.217s] -- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/package.dsv
+[30.218s] -- Installing: /home/colbren/ground-station/install/lifecycle/share/ament_index/resource_index/packages/lifecycle
+[30.218s] -- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/cmake/lifecycleConfig.cmake
+[30.219s] -- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/cmake/lifecycleConfig-version.cmake
+[30.219s] -- Installing: /home/colbren/ground-station/install/lifecycle/share/lifecycle/package.xml
+[30.224s] Invoked command in '/home/colbren/ground-station/build/lifecycle' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/lifecycle

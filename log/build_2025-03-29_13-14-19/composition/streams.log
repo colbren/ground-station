@@ -1,0 +1,64 @@
+[0.051s] Invoking command in '/home/colbren/ground-station/build/composition': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake /home/colbren/ground-station/src/demos/composition -DCMAKE_INSTALL_PREFIX=/home/colbren/ground-station/install/composition
+[1.069s] -- The C compiler identification is GNU 11.4.0
+[1.069s] -- The CXX compiler identification is GNU 11.4.0
+[1.069s] -- Detecting C compiler ABI info
+[1.070s] -- Detecting C compiler ABI info - done
+[1.070s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.070s] -- Detecting C compile features
+[1.070s] -- Detecting C compile features - done
+[1.070s] -- Detecting CXX compiler ABI info
+[1.070s] -- Detecting CXX compiler ABI info - done
+[1.070s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.070s] -- Detecting CXX compile features
+[1.071s] -- Detecting CXX compile features - done
+[1.071s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.072s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.073s] -- Found example_interfaces: 0.9.3 (/opt/ros/humble/share/example_interfaces/cmake)
+[1.073s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.073s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.073s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.073s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.073s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.073s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[1.096s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.101s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.232s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.276s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.345s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.357s] -- Looking for pthread.h
+[1.486s] -- Looking for pthread.h - found
+[1.487s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.617s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.618s] -- Found Threads: TRUE  
+[1.699s] -- Found rclcpp_components: 16.0.11 (/opt/ros/humble/share/rclcpp_components/cmake)
+[1.750s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.928s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[1.961s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[1.972s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[1.973s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.973s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[1.973s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[2.004s] -- Found PythonExtra: .so  
+[2.016s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.019s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.019s] -- Configured cppcheck include dirs: /home/colbren/ground-station/src/demos/composition/include
+[2.019s] -- Configured cppcheck exclude dirs and/or files: 
+[2.032s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.032s] -- Configured cpplint exclude dirs and/or files: 
+[2.032s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.034s] -- Added test 'lint_cmake' to check CMake code style
+[2.034s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.034s] -- Added test 'uncrustify' to check C / C++ code style
+[2.034s] -- Configured uncrustify additional arguments: 
+[2.035s] -- Added test 'xmllint' to check XML markup files
+[2.036s] -- Configuring done
+[2.102s] -- Generating done
+[2.155s] -- Build files have been written to: /home/colbren/ground-station/build/composition
+[2.196s] Invoked command in '/home/colbren/ground-station/build/composition' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake /home/colbren/ground-station/src/demos/composition -DCMAKE_INSTALL_PREFIX=/home/colbren/ground-station/install/composition
+[2.200s] Invoking command in '/home/colbren/ground-station/build/composition': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/composition -- -j16 -l16
+[2.411s] [  6%] [32mBuilding CXX object CMakeFiles/node_like_listener_component.dir/src/node_like_listener_component.cpp.o[0m
+[2.411s] [ 12%] [32mBuilding CXX object CMakeFiles/talker_component.dir/src/talker_component.cpp.o[0m
+[2.411s] [ 18%] [32mBuilding CXX object CMakeFiles/server_component.dir/src/server_component.cpp.o[0m
+[2.411s] [ 25%] [32mBuilding CXX object CMakeFiles/dlopen_composition.dir/src/dlopen_composition.cpp.o[0m
+[2.411s] [ 31%] [32mBuilding CXX object CMakeFiles/client_component.dir/src/client_component.cpp.o[0m
+[2.422s] [ 37%] [32mBuilding CXX object CMakeFiles/listener_component.dir/src/listener_component.cpp.o[0m

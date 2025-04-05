@@ -98,10 +98,10 @@ class ROSNodeManager(QWidget):
         launch_process = QProcess(self)
 
         # Should be changed to ros2 launch
-        launch_process.start("ros2", ["run", "demo_nodes_cpp", "talker"])
+        launch_process.start("ros2", ["run", "lifecycle_py", "lifecycle_talker"])
 
-            # Add NodeController widgets for expected nodes
-        for node_name in ["/talker"]:  # Add more node names as needed
+        # Add NodeController widgets for expected nodes
+        for node_name in ["/lc_talker"]:  # Add more node names as needed
             controller = NodeController(node_name)
             self.node_controllers.append(controller)
             self.node_group.addWidget(controller)
@@ -109,6 +109,6 @@ class ROSNodeManager(QWidget):
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
-    window = ROSNodeManager()
+    window = ROSNodeManager()       
     window.show()
     sys.exit(app.exec_())

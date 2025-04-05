@@ -1,0 +1,11 @@
+/home/colbren/ground-station/build/turtSim_node/CMakeFiles/uninstall.dir
+/home/colbren/ground-station/build/turtSim_node/CMakeFiles/turtSim_node_uninstall.dir
+/home/colbren/ground-station/build/turtSim_node/CMakeFiles/turtSim_node.dir
+/home/colbren/ground-station/build/turtSim_node/CMakeFiles/test.dir
+/home/colbren/ground-station/build/turtSim_node/CMakeFiles/edit_cache.dir
+/home/colbren/ground-station/build/turtSim_node/CMakeFiles/rebuild_cache.dir
+/home/colbren/ground-station/build/turtSim_node/CMakeFiles/list_install_components.dir
+/home/colbren/ground-station/build/turtSim_node/CMakeFiles/install.dir
+/home/colbren/ground-station/build/turtSim_node/CMakeFiles/install/local.dir
+/home/colbren/ground-station/build/turtSim_node/CMakeFiles/install/strip.dir
+/home/colbren/ground-station/build/turtSim_node/CMakeFiles/turtSim_node_autogen.dir

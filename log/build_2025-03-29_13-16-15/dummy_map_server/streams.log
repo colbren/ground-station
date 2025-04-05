@@ -1,0 +1,25 @@
+[0.081s] Invoking command in '/home/colbren/ground-station/build/dummy_map_server': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/dummy_map_server -- -j16 -l16
+[1.298s] [ 50%] [32mBuilding CXX object CMakeFiles/dummy_map_server.dir/src/dummy_map_server.cpp.o[0m
+[7.045s] [100%] [32m[1mLinking CXX executable dummy_map_server[0m
+[7.463s] [100%] Built target dummy_map_server
+[7.501s] Invoked command in '/home/colbren/ground-station/build/dummy_map_server' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --build /home/colbren/ground-station/build/dummy_map_server -- -j16 -l16
+[7.502s] Invoking command in '/home/colbren/ground-station/build/dummy_map_server': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/dummy_map_server
+[14.642s] -- Install configuration: ""
+[14.642s] -- Installing: /home/colbren/ground-station/install/dummy_map_server/lib/dummy_map_server/dummy_map_server
+[14.642s] -- Set runtime path of "/home/colbren/ground-station/install/dummy_map_server/lib/dummy_map_server/dummy_map_server" to ""
+[14.642s] -- Installing: /home/colbren/ground-station/install/dummy_map_server/share/ament_index/resource_index/package_run_dependencies/dummy_map_server
+[14.642s] -- Installing: /home/colbren/ground-station/install/dummy_map_server/share/ament_index/resource_index/parent_prefix_path/dummy_map_server
+[14.642s] -- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/environment/ament_prefix_path.sh
+[14.642s] -- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/environment/ament_prefix_path.dsv
+[14.643s] -- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/environment/path.sh
+[14.643s] -- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/environment/path.dsv
+[14.643s] -- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/local_setup.bash
+[14.643s] -- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/local_setup.sh
+[14.643s] -- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/local_setup.zsh
+[14.643s] -- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/local_setup.dsv
+[14.643s] -- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/package.dsv
+[14.643s] -- Installing: /home/colbren/ground-station/install/dummy_map_server/share/ament_index/resource_index/packages/dummy_map_server
+[14.643s] -- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/cmake/dummy_map_serverConfig.cmake
+[14.643s] -- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/cmake/dummy_map_serverConfig-version.cmake
+[14.643s] -- Installing: /home/colbren/ground-station/install/dummy_map_server/share/dummy_map_server/package.xml
+[14.648s] Invoked command in '/home/colbren/ground-station/build/dummy_map_server' returned '0': CMAKE_PREFIX_PATH=/home/colbren/ros2_ws/install/turtlesim_ui:/opt/ros/humble /usr/bin/cmake --install /home/colbren/ground-station/build/dummy_map_server

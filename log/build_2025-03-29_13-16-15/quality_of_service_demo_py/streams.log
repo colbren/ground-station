@@ -1,0 +1,27 @@
+[2.026s] Invoking command in '/home/colbren/ground-station/src/demos/quality_of_service_demo/rclpy': PYTHONPATH=/home/colbren/ground-station/build/quality_of_service_demo_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/colbren/ground-station/install/quality_of_service_demo_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/quality_of_service_demo_py build --build-base /home/colbren/ground-station/build/quality_of_service_demo_py/build install --record /home/colbren/ground-station/build/quality_of_service_demo_py/install.log --single-version-externally-managed install_data
+[14.504s] running egg_info
+[14.504s] writing ../../../../build/quality_of_service_demo_py/quality_of_service_demo_py.egg-info/PKG-INFO
+[14.504s] writing dependency_links to ../../../../build/quality_of_service_demo_py/quality_of_service_demo_py.egg-info/dependency_links.txt
+[14.505s] writing entry points to ../../../../build/quality_of_service_demo_py/quality_of_service_demo_py.egg-info/entry_points.txt
+[14.505s] writing requirements to ../../../../build/quality_of_service_demo_py/quality_of_service_demo_py.egg-info/requires.txt
+[14.505s] writing top-level names to ../../../../build/quality_of_service_demo_py/quality_of_service_demo_py.egg-info/top_level.txt
+[14.505s] reading manifest file '../../../../build/quality_of_service_demo_py/quality_of_service_demo_py.egg-info/SOURCES.txt'
+[14.506s] writing manifest file '../../../../build/quality_of_service_demo_py/quality_of_service_demo_py.egg-info/SOURCES.txt'
+[14.506s] running build
+[14.506s] running build_py
+[14.506s] running install
+[14.506s] running install_lib
+[14.506s] running install_data
+[14.506s] running install_egg_info
+[14.507s] removing '/home/colbren/ground-station/install/quality_of_service_demo_py/lib/python3.10/site-packages/quality_of_service_demo_py-0.20.5-py3.10.egg-info' (and everything under it)
+[14.507s] Copying ../../../../build/quality_of_service_demo_py/quality_of_service_demo_py.egg-info to /home/colbren/ground-station/install/quality_of_service_demo_py/lib/python3.10/site-packages/quality_of_service_demo_py-0.20.5-py3.10.egg-info
+[14.507s] running install_scripts
+[14.507s] Installing deadline script to /home/colbren/ground-station/install/quality_of_service_demo_py/lib/quality_of_service_demo_py
+[14.507s] Installing incompatible_qos script to /home/colbren/ground-station/install/quality_of_service_demo_py/lib/quality_of_service_demo_py
+[14.508s] Installing lifespan script to /home/colbren/ground-station/install/quality_of_service_demo_py/lib/quality_of_service_demo_py
+[14.508s] Installing liveliness script to /home/colbren/ground-station/install/quality_of_service_demo_py/lib/quality_of_service_demo_py
+[14.509s] Installing message_lost_listener script to /home/colbren/ground-station/install/quality_of_service_demo_py/lib/quality_of_service_demo_py
+[14.509s] Installing qos_overrides_listener script to /home/colbren/ground-station/install/quality_of_service_demo_py/lib/quality_of_service_demo_py
+[14.509s] Installing qos_overrides_talker script to /home/colbren/ground-station/install/quality_of_service_demo_py/lib/quality_of_service_demo_py
+[14.509s] writing list of installed files to '/home/colbren/ground-station/build/quality_of_service_demo_py/install.log'
+[14.560s] Invoked command in '/home/colbren/ground-station/src/demos/quality_of_service_demo/rclpy' returned '0': PYTHONPATH=/home/colbren/ground-station/build/quality_of_service_demo_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/colbren/ground-station/install/quality_of_service_demo_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/quality_of_service_demo_py build --build-base /home/colbren/ground-station/build/quality_of_service_demo_py/build install --record /home/colbren/ground-station/build/quality_of_service_demo_py/install.log --single-version-externally-managed install_data

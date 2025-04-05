@@ -1,0 +1,178 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-10d60db1d4faf28413e0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "quality_of_service_demo_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "deadline::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-deadline-653607d3b4a174a539c8.json",
+					"name" : "deadline",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "incompatible_qos::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-incompatible_qos-1553ee12b7c05dceb4a1.json",
+					"name" : "incompatible_qos",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interactive_publisher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interactive_publisher-8237bc21f911a198b6b3.json",
+					"name" : "interactive_publisher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interactive_subscriber::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interactive_subscriber-64db98af893d452a0ae4.json",
+					"name" : "interactive_subscriber",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lifespan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lifespan-7cd76cba92329e5384ce.json",
+					"name" : "lifespan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "liveliness::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-liveliness-43cdd3d53aba6f7bf2c7.json",
+					"name" : "liveliness",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "message_lost::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-message_lost-48e5e31f7a119a02d987.json",
+					"name" : "message_lost",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "message_lost_listener::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-message_lost_listener-a87c1ffb291c53411bf6.json",
+					"name" : "message_lost_listener",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "message_lost_talker::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-message_lost_talker-60e320b97bb611f5ddcf.json",
+					"name" : "message_lost_talker",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qos_overrides::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qos_overrides-3f2b7773aee802a85fc2.json",
+					"name" : "qos_overrides",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qos_overrides_listener::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qos_overrides_listener-c18a3038b68eb75650c2.json",
+					"name" : "qos_overrides_listener",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qos_overrides_talker::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qos_overrides_talker-b0db7074b07ea9e251b3.json",
+					"name" : "qos_overrides_talker",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "quality_of_service_demo_cpp_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-quality_of_service_demo_cpp_uninstall-8469fab498e576eaa2ee.json",
+					"name" : "quality_of_service_demo_cpp_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-455f46264f894be0566e.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/colbren/ground-station/build/quality_of_service_demo_cpp",
+		"source" : "/home/colbren/ground-station/src/demos/quality_of_service_demo/rclcpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

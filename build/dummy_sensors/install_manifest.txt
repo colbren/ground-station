@@ -1,0 +1,17 @@
+/home/colbren/ground-station/install/dummy_sensors/lib/dummy_sensors/dummy_joint_states
+/home/colbren/ground-station/install/dummy_sensors/lib/dummy_sensors/dummy_laser
+/home/colbren/ground-station/install/dummy_sensors/share/ament_index/resource_index/package_run_dependencies/dummy_sensors
+/home/colbren/ground-station/install/dummy_sensors/share/ament_index/resource_index/parent_prefix_path/dummy_sensors
+/home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/environment/ament_prefix_path.sh
+/home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/environment/ament_prefix_path.dsv
+/home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/environment/path.sh
+/home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/environment/path.dsv
+/home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/local_setup.bash
+/home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/local_setup.sh
+/home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/local_setup.zsh
+/home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/local_setup.dsv
+/home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/package.dsv
+/home/colbren/ground-station/install/dummy_sensors/share/ament_index/resource_index/packages/dummy_sensors
+/home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/cmake/dummy_sensorsConfig.cmake
+/home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/cmake/dummy_sensorsConfig-version.cmake
+/home/colbren/ground-station/install/dummy_sensors/share/dummy_sensors/package.xml
